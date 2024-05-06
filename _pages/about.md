@@ -27,9 +27,9 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 - **Artificial Intelligence (AI) :** AI in healthcare and medicine applications
 
 
-# 📝 Publications 
+# Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2016</div><img src='images/2024_LAViT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='images/2024_LAViT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset](https://ieeexplore.ieee.org/abstract/document/10460116/)
@@ -38,7 +38,7 @@ Pan Huang, Hualiang Xiao, Peng He*, Chentao Li, Xiaodong Guo, **Sukun Tian\***, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A ViT-AMC network with adaptive model fusion and multiobjective optimization for interpretable laryngeal tumor grading from histopathological images](https://ieeexplore.ieee.org/abstract/document/9868801)
@@ -47,7 +47,7 @@ Pan Huang, Peng He, **Sukun Tian\***, Mingrui Ma, Peng Feng*, Hualiang Xiao*, Fr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials & Design</div><img src='images/grid_tree.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials & Design 2023</div><img src='images/grid_tree.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Grid-tree composite support structures for lattice parts in selective laser melting](https://www.sciencedirect.com/science/article/pii/S0264127522011224)
@@ -57,7 +57,7 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/DAIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2021</div><img src='images/DAIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient computer-aided design of dental inlay restoration :A deep adversarial framework](https://ieeexplore.ieee.org/abstract/document/9422832)
@@ -90,12 +90,12 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 - 湖南省研究生创新论坛优秀论文一等奖
 
 
-# 📖Projects
+# Projects
 - \[12/2023-11/2026\] 国家重点研发计划
 - \[12/2023-12/2026\] 北京市自然科学基金海淀原始创新联合基金
 - \[12/2023-12/2024\] 国家自然科学基金青年项目
 
-# 💻 Services
+# Services
 - 长期担任Comput. Biol. Med. （JCR Q1, IF：6.698）、Int. J. Numer. Methods Biomed. Eng. （JCR Q2, IF：2.648）、Sci. Rep.（JCR Q2, IF：4.996）、IEEE Access（JCR Q2, IF：3.476）等期刊审稿人
 - 中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问
 - 担任国际期刊Sensors (ISSN 1424-8220，影响因子：3.847)上Special Issue "Intelligent Point Cloud Processing, Sensing and Understanding"的客座编辑（Guest Editor）
