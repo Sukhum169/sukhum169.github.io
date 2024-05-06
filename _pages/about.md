@@ -47,7 +47,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A ViT-AMC network with adaptive model fusion and multiobjective optimization for interpretable laryngeal tumor grading from histopathological images](https://ieeexplore.ieee.org/abstract/document/9868801)
