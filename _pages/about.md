@@ -29,26 +29,44 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2016</div><img src='images/2024_LAViT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset](https://ieeexplore.ieee.org/abstract/document/10460116/)
+Pan Huang, Hualiang Xiao, Peng He*, Chentao Li, Xiaodong Guo, **Sukun Tian\***, Peng Feng*, Hu Chen, Yuchun Sun, Francesco Mercaldo, Antonella Santone, Jing Qin.(*Corresponding authors)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A ViT-AMC network with adaptive model fusion and multiobjective optimization for interpretable laryngeal tumor grading from histopathological images](https://ieeexplore.ieee.org/abstract/document/9868801)
+Pan Huang, Peng He, **Sukun Tian\***, Mingrui Ma, Peng Feng*, Hualiang Xiao*, Francesco Mercaldo, Antonella Santone, Jing Qin.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials & Design</div><img src='images/grid_tree.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Grid-tree composite support structures for lattice parts in selective laser melting](https://www.sciencedirect.com/science/article/pii/S0264127522011224)
+Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian\***, Zhe Zhang.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/DAIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient computer-aided design of dental inlay restoration :A deep adversarial framework](https://ieeexplore.ieee.org/abstract/document/9422832)
+**Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai, **Yuchun Sun\***, Wuyuan Xie, Jing Qin.
 
-**Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai, **Yuchun Sun\***, Wuyuan Xie, Jing Qin.(*Corresponding authors)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 
 
