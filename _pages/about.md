@@ -29,7 +29,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/DAIS.png' alt="sym" width="100%"></div></div>s
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/DAIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient computer-aided design of dental inlay restoration :A deep adversarial framework](https://ieeexplore.ieee.org/abstract/document/9422832)
@@ -39,6 +39,9 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 </div>
 
 
+
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - 
 # Patents
 1.	马海峰, **田素坤**, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）
