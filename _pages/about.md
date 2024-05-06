@@ -29,7 +29,34 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='images/2024_LAViT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomedical Signal Processing and Control</div><img src='images/Efficient tooth gingival margin line reconstruction via adversarial learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient tooth gingival margin line reconstruction via adversarial learning](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)
+**Sukun Tian**, Miaohui Wang, Haifeng Ma, Pan Huang, Ning Dai, Yuchun Sun, Jianjun Meng.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/DAIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient computer-aided design of dental inlay restoration :A deep adversarial framework](https://ieeexplore.ieee.org/abstract/document/9422832)
+**Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai, **Yuchun Sun\***, Wuyuan Xie, Jing Qin.
+
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A ViT-AMC network with adaptive model fusion and multiobjective optimization for interpretable laryngeal tumor grading from histopathological images](https://ieeexplore.ieee.org/abstract/document/9868801)
+Pan Huang, Peng He, **Sukun Tian\***, Mingrui Ma, Peng Feng*, Hualiang Xiao*, Francesco Mercaldo, Antonella Santone, Jing Qin.
+
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='images/2024_LAViT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset](https://ieeexplore.ieee.org/abstract/document/10460116/)
@@ -64,14 +91,10 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 **Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai, **Yuchun Sun\***, Wuyuan Xie, Jing Qin.
 
 </div>
-</div>
+</div> -->
 
 
 
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- 
 # Patents
 1.	马海峰, **田素坤**, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）
 2.	陈金友, 胡巍, 廖金雄, **田素坤**. 一种柔性仿生机械抓取装置: 中国, 授权号：ZL202010909342.0.
