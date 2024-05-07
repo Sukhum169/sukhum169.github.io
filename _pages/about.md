@@ -40,6 +40,16 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 - news1
 - news2
 - news3
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 
 
 <span class='anchor' id='interests'>
 
@@ -49,7 +59,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 <div><img src='images/方向1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AI-aided intelligent extraction of dental features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)
+[AI-aided Intelligent Extraction of Dental Features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)
 AI-aided teeth feature intelligent extraction is an innovative research integrating artificial intelligence technology with the dental field. Its objective is to utilize computer vision and machine learning algorithms to automatically identify and extract key features from dental images, such as tooth morphology, position, and spacing. This facilitates rapid and accurate assistance for dental diagnosis and treatment, promoting the intelligent and precise development of dental healthcare.
 
 </div>
@@ -61,7 +71,7 @@ AI-aided teeth feature intelligent extraction is an innovative research integrat
 <img src='images/方向2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AI-aided intelligent design and manufacturing of dental prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)
+[AI-aided Intelligent Design and Manufacturing of Dental Prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)
 AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic that combines artificial intelligence with prosthetic dentistry. It aims to leverage AI algorithms to optimize the design process of dental prostheses, such as crowns, bridges, and dentures, based on individual patient data and requirements. By integrating AI into the manufacturing process, it enables the production of customized prosthetic devices with improved accuracy, fit, and functionality. This innovative approach promises to revolutionize the field of prosthodontics by streamlining workflow, enhancing patient outcomes, and advancing the overall quality of dental care.
 
 </div>
