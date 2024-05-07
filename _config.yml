@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Sukhum's Homepage"
 description              : "Welcome to my homepage "
-repository               : "Sukhum169"
+repository               : "https://github.com/Sukhum169"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "https://github.com/Sukhum169"
+  github           :  "Sukhum169"
   google_plus      :
   keybase          :
   instagram        :
