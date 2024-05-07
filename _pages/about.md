@@ -16,12 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<style>
-pre {
-  overflow-y: auto;
-  max-height: 300px;
-}
-</style>
 
 <span class='anchor' id='biography'>
 
@@ -37,6 +31,9 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 <span class='anchor' id='news'>
 
 # News
+
+<div style="width:200px;height:100px; overflow: auto;"
+
 - news1
 - news2
 - news3
@@ -49,7 +46,17 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 - 1
 - 1
 - 1
-- 
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+
+
+</div>
+
 
 <span class='anchor' id='interests'>
 
