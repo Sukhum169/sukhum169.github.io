@@ -53,7 +53,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 # Research Interests
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><img src='images/方向1.png' alt="sym" width="100%"></div></div>
+<div><img src='images/方向1.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AI-aided Intelligent Extraction of Dental Features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)  
@@ -65,7 +65,7 @@ AI-aided teeth feature intelligent extraction is an innovative research integrat
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/方向2.png' alt="sym" width="100%"></div></div>
+<img src='images/方向2.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AI-aided Intelligent Design and Manufacturing of Dental Prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)
@@ -75,7 +75,7 @@ AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic
 </div> 
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/方向3.png' alt="sym" width="100%"></div></div>
+<img src='images/方向3.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AI-aided Medical Image Intelligent Diagnosis](https://ieeexplore.ieee.org/abstract/document/9868801)
