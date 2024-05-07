@@ -24,6 +24,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 &emsp;&emsp;田素坤，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。主要从事医学人工智能诊断与仿生设计智造技术等研究。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者。目前主持在研国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；迄今已在国内外刊物上发表论文40余篇，其中以第一/通讯作者在*IEEE Trans. Med. Imag.*（Q1-TOP, IF: 10.6, 1/58）、*IEEE J. Biomed. Health Informat*.（Q1-TOP, IF:7.7, 4/50）医工交叉领域权威期刊上发表SCI/EI论文20篇，ESI高被引论文1篇；长期担任IEEE TMI、IEEE JBHI、IEEE TIM.等国际期刊审稿人，并应邀担任国际SCI期刊Sensors和国际会议PRAI 2023客座编辑（Guest Editor）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48届日内瓦国家发明展金奖（4/13）、中国研究生电子设计竞赛华东赛区一等奖、湖南省研究生创新论坛优秀论文一等奖等10余项。
 
 </font>
+
 </span>
 
 
@@ -107,7 +108,7 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 
 
 ## **2024**
-- Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, Luca Fiorenza, Hu Chen\*, Sukun Tian\*, Yuchun Sun\*, [Efficient complete denture metal base design via a dental feature-driven segmentation network. Computers in Biology and Medicine, 2024, 175: 108550.](https://www.sciencedirect.com/science/article/pii/S0010482524006346)
+- Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, Luca Fiorenza, Hu Chen\*, **Sukun Tian\***, Yuchun Sun\*, [Efficient complete denture metal base design via a dental feature-driven segmentation network. Computers in Biology and Medicine, 2024, 175: 108550.](https://www.sciencedirect.com/science/article/pii/S0010482524006346)
 - Hongyan Wang, Hu Chen, **Sukun Tian**, Yuchun Sun, Feng Wu, [Quantitative evaluation of the proximal contact area gap change characterization under intercuspal occlusion by intraoral 3D scanning: Food impaction with tight proximal contact. Journal of Esthetic and Restorative Dentistry, 2024, Doi.org/10.1111/jerd.13240.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jerd.13240)
 - Pan Huang, Chentao Li, Peng He, Hualiang Xiao, Yifang Ping, Peng Feng, **Sukun Tian**, Hu Chen, Francesco Mercaldo, Antonella Santone, Hui-yuan Yeh, Jing Qin, [MamlFormer Priori-experience Guiding Transformer Network via Manifold Adversarial Multi modal Learning for Laryngeal Histopathological Grading, Information Fusion](https://doi.org/10.1016/j.inffus.2024.102333)
 - Pan Huang, Hualiang Xiao, Peng He\*, Chentao Li, Xiaodong Guo, **Sukun Tian\***, Peng Feng\*, Hu Chen, Yuchun Sun, Francesco Mercaldo, Antonella Santone, Jing Qin. [LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset, IEEE Journal of Biomedical and Health Informatics, 2024, DOI 10.1109/JBHI.2024.3373438](https://ieeexplore.ieee.org/abstract/document/10460116/)
