@@ -35,25 +35,16 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 <div style="width: 1000px; height:250px; overflow: auto;">
 
-news1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-news11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-news11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-news11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-news11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-news11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-1. 1111111111
-2. 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-3. 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-4. 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111sssssssss
-5. 11111
-6. 1
-7. 1
-8. 1
-9. 1
-10. 1
-11. 1
-12. 1
-13. 
+1.	**Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037). 
+2.	**Sukun Tian**, Miaohui Wang, Ning Dai, Haifeng Ma, Linlin Li, Luca Fiorenza, Yuchun Sun*, Yangmin Li. DCPR-GAN: Dental crown prosthesis restoration using two-stage generative adversarial networks. IEEE Journal of Biomedical and Health Informatics, 2022, 26(1): 151-160. (JCR Q1-Top, IF: 7.021).
+3.	**Sukun Tian**, Miaohui Wang, Haifeng Ma, Pan Huang, Ning Dai, Yuchun Sun*, Jianjun Meng. Efficient tooth gingival margin line reconstruction via adversarial learning. Biomedical Signal Processing and Control, 2022, 78: 103954. (JCR Q2, IF: 5.076).
+4.	**Sukun Tian**, Pan Huang, Haifeng Ma, Jilai Wang, Xiaoli Zhou, Silu Zhang, Jinhua Zhou, Renkai Huang, Yangmin Li. CASDD: Automatic surface defect detection using a complementary adversarial network. IEEE Sensors Journal, 2022, 22(20): 19583–19595. (JCR Q1-Top, IF: 4.325).
+5.	**Sukun Tian**, Ning Dai, Xiaosheng Cheng, Linlin Li, Yuchun Sun*, Haihua Cui. Relative trajectory-driven virtual dynamic occlusal adjustment for dental restorations. Medical & Biological Engineering & Computing, 2019, 57(1): 59-70. (JCR Q2, IF: 3.079).
+6.	**Sukun Tian**, Ning Dai, Linlin Li, Weiwei Li, Yuchun Sun*, Xiaosheng Cheng. Three-dimensional mandibular motion trajectory-tracking system based on BP neural network. Mathematical Biosciences and Engineering, 2020, 17(5): 5709-5726. (JCR Q3, IF: 2.194).
+7.	**Sukun Tian**, Renkai Huang, Zhenyang Li, Luca Fiorenza, Ning Dai, Yuchun Sun, Haifeng Ma. A dual-discriminator adversarial learning approach for dental occlusal surface reconstruction. Journal of Healthcare Engineering, 2022, Article ID: 1933617. (JCR Q2, IF: 3.822). 
+8.	**Sukun Tian**, Ning Dai, Bei Zhang, Fulai Yuan, Qing Yu, Xiaosheng Cheng. Automatic classification and segmentation of teeth on 3D dental model using hierarchical deep learning networks. IEEE Access, 2019, 7: 84817-84828. (JCR Q2, IF: 3.476).
+
+
 
 
 </div>
