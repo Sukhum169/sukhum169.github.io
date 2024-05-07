@@ -15,8 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'>
+<span class='anchor' id='biography'>
 
+# Biography
 <font size=4 >
 
 &emsp;&emsp;Sukun Tian received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2020, and Post-Doctoral Fellow in School of Mechanical Engineering, Shandong University, Jinan, China, in 2023. 
@@ -25,16 +26,48 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 </font>
 
+<span class='anchor' id='news'>
 
-
+# News
+- news1
+- news2
+- news3
 
 <span class='anchor' id='interests'>
 
 # Research Interests
 
-- AI-aided intelligent extraction of dental features(AI-aided 牙齿特征智能提取)
-- AI-aided intelligent design and manufacturing of dental restorations(AI-aided 修复体智能设计与智造)
-- AI-aided intelligent diagnosis of medical images(AI-aided 医学图像智能诊断)
+<div class='paper-box'><div class='paper-box-image'>
+<div><img src='images/Efficient tooth gingival margin line reconstruction via adversarial learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI-aided intelligent extraction of dental features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)
+AI-aided teeth feature intelligent extraction is an innovative research integrating artificial intelligence technology with the dental field. Its objective is to utilize computer vision and machine learning algorithms to automatically identify and extract key features from dental images, such as tooth morphology, position, and spacing. This facilitates rapid and accurate assistance for dental diagnosis and treatment, promoting the intelligent and precise development of dental healthcare.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='images/DAIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI-aided intelligent design and manufacturing of dental prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)
+AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic that combines artificial intelligence with prosthetic dentistry. It aims to leverage AI algorithms to optimize the design process of dental prostheses, such as crowns, bridges, and dentures, based on individual patient data and requirements. By integrating AI into the manufacturing process, it enables the production of customized prosthetic devices with improved accuracy, fit, and functionality. This innovative approach promises to revolutionize the field of prosthodontics by streamlining workflow, enhancing patient outcomes, and advancing the overall quality of dental care.
+
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI-aided Medical Image Intelligent Diagnosis](https://ieeexplore.ieee.org/abstract/document/9868801)
+AI-aided Medical Image Intelligent Diagnosis is an emerging field at the intersection of artificial intelligence and healthcare. It involves the application of advanced machine learning and computer vision techniques to analyze medical images, such as X-rays, MRIs, and CT scans, for accurate and efficient diagnosis of various diseases and conditions. By training AI models on vast amounts of annotated medical image data, these systems can recognize patterns and abnormalities that may be imperceptible to the human eye, assisting healthcare professionals in making timely and precise diagnoses. This technology holds great promise in improving diagnostic accuracy, reducing interpretation time, and ultimately enhancing patient care across diverse medical specialties.
+
+</div>
+</div>
 
 
 
@@ -42,71 +75,6 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 # Publications 
 **Note**:* Corresponding author, # Co-first authors.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomedical Signal Processing and Control</div><img src='images/Efficient tooth gingival margin line reconstruction via adversarial learning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Efficient tooth gingival margin line reconstruction via adversarial learning](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)
-**Sukun Tian**, Miaohui Wang, Haifeng Ma\*, Pan Huang, Ning Dai, Yuchun Sun\*, Jianjun Meng.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/DAIS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Efficient computer-aided design of dental inlay restoration :A deep adversarial framework](https://ieeexplore.ieee.org/abstract/document/9422832)
-**Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai\*, Yuchun Sun\*, Wuyuan Xie\*, Jing Qin.
-
-</div>
-</div> 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A ViT-AMC network with adaptive model fusion and multiobjective optimization for interpretable laryngeal tumor grading from histopathological images](https://ieeexplore.ieee.org/abstract/document/9868801)
-Pan Huang, Peng He, **Sukun Tian\***, Mingrui Ma, Peng Feng\*, Hualiang Xiao\*, Francesco Mercaldo, Antonella Santone, Jing Qin.
-
-</div>
-</div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='images/2024_LAViT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset](https://ieeexplore.ieee.org/abstract/document/10460116/)
-Pan Huang, Hualiang Xiao, Peng He*, Chentao Li, Xiaodong Guo, **Sukun Tian\***, Peng Feng*, Hu Chen, Yuchun Sun, Francesco Mercaldo, Antonella Santone, Jing Qin.(*Corresponding authors)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2023</div><img src='images/ViT-AMC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A ViT-AMC network with adaptive model fusion and multiobjective optimization for interpretable laryngeal tumor grading from histopathological images](https://ieeexplore.ieee.org/abstract/document/9868801)
-Pan Huang, Peng He, **Sukun Tian\***, Mingrui Ma, Peng Feng*, Hualiang Xiao*, Francesco Mercaldo, Antonella Santone, Jing Qin.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials & Design 2023</div><img src='images/grid_tree.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Grid-tree composite support structures for lattice parts in selective laser melting](https://www.sciencedirect.com/science/article/pii/S0264127522011224)
-Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian\***, Zhe Zhang.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2021</div><img src='images/DAIS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Efficient computer-aided design of dental inlay restoration :A deep adversarial framework](https://ieeexplore.ieee.org/abstract/document/9422832)
-**Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai, **Yuchun Sun\***, Wuyuan Xie, Jing Qin.
-
-</div>
-</div> -->
-
-
 ## **2024**
 - Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, Luca Fiorenza, Hu Chen\*, **Sukun Tian\***, Yuchun Sun\*, [Efficient complete denture metal base design via a dental feature-driven segmentation network. Computers in Biology and Medicine, 2024, 175: 108550.](https://www.sciencedirect.com/science/article/pii/S0010482524006346)
 - Hongyan Wang, Hu Chen, **Sukun Tian**, Yuchun Sun, Feng Wu, [Quantitative evaluation of the proximal contact area gap change characterization under intercuspal occlusion by intraoral 3D scanning: Food impaction with tight proximal contact. Journal of Esthetic and Restorative Dentistry, 2024, Doi.org/10.1111/jerd.13240.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jerd.13240)

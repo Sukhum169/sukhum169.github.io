@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Biography"
+    url: "/#biography"
+
+  - title: "News"
+    url: "/#news"
 
   - title: "Research Interests"
     url: "/#interests"
