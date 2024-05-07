@@ -36,7 +36,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 <div class='paper-box-text' markdown="1">
 
 [Efficient tooth gingival margin line reconstruction via adversarial learning](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)
-**Sukun Tian**, Miaohui Wang, Haifeng Ma*, Pan Huang, Ning Dai, Yuchun Sun*, Jianjun Meng.
+**Sukun Tian**, Miaohui Wang, Haifeng Ma\*, Pan Huang, Ning Dai, Yuchun Sun\*, Jianjun Meng.
 
 </div>
 </div>
@@ -45,7 +45,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 <div class='paper-box-text' markdown="1">
 
 [Efficient computer-aided design of dental inlay restoration :A deep adversarial framework](https://ieeexplore.ieee.org/abstract/document/9422832)
-**Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai*, Yuchun Sun*, Wuyuan Xie*, Jing Qin.
+**Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai\*, Yuchun Sun\*, Wuyuan Xie\*, Jing Qin.
 
 </div>
 </div> 
@@ -54,7 +54,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 <div class='paper-box-text' markdown="1">
 
 [A ViT-AMC network with adaptive model fusion and multiobjective optimization for interpretable laryngeal tumor grading from histopathological images](https://ieeexplore.ieee.org/abstract/document/9868801)
-Pan Huang, Peng He, **Sukun Tian\***, Mingrui Ma, Peng Feng*, Hualiang Xiao*, Francesco Mercaldo, Antonella Santone, Jing Qin.
+Pan Huang, Peng He, **Sukun Tian\***, Mingrui Ma, Peng Feng\*, Hualiang Xiao\*, Francesco Mercaldo, Antonella Santone, Jing Qin.
 
 </div>
 </div>
