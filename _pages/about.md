@@ -126,4 +126,7 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 - 中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问
 - 担任国际期刊Sensors (ISSN 1424-8220，影响因子：3.847)上Special Issue "Intelligent Point Cloud Processing, Sensing and Understanding"的客座编辑（Guest Editor）
 - 担任国际会议2023年IEEE第六届模式识别与人工智能国际会议（2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence，PRAI 2023）上Special Session 4 - Artificial Intelligence for Medical Image Processing的客座编辑（Guest Editor）
-- </font>
+
+
+
+</font>
