@@ -28,7 +28,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 - AI-aided intelligent extraction of dental features(AI-aided 牙齿特征智能提取)
 - AI-aided intelligent design and manufacturing of dental restorations(AI-aided 修复体智能设计与智造)
-- AI-aided intelligent diagnosis of medical images(s AI-aided医学图像智能诊断)
+- AI-aided intelligent diagnosis of medical images(AI-aided 医学图像智能诊断)
 
 
 # Publications 
@@ -97,6 +97,11 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 
 </div>
 </div> -->
+
+# Papers
+**2024**
+- Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, Luca Fiorenza, Hu Chen\*, Sukun Tian\*, Yuchun Sun\*, [Efficient complete denture metal base design via a dental feature-driven segmentation network. Computers in Biology and Medicine, 2024, 175: 108550.](https://www.sciencedirect.com/science/article/pii/S0010482524006346)
+- 
 
 
 
