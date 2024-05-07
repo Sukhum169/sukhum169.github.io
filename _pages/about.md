@@ -15,7 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'>Sukun Tian received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from *Nanjing University of Aeronautics and Astronautics*, Nanjing, China, in 2020, and Post-Doctoral Fellow in *School of Mechanical Engineering, Shandong University*, Jinan, China, in 2023. 
+He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from *Peking University School and Hospital of Stomatology*. Dr. Tian has authored or co-authored over 40 peer-reviewed papers in journals and conferences (e.g., IEEE TMI/ JBHI/ TIM, Mater. Design., AAAI). His current research interests cover a wide range of topics related with biomedical engineering, medical image analysis, intelligent manufacturing, artificial intelligence (AI) techniques in healthcare and medicine applications.   </span>
 <font size=4 >
 &emsp;&emsp;Sukun Tian received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from *Nanjing University of Aeronautics and Astronautics*, Nanjing, China, in 2020, and Post-Doctoral Fellow in *School of Mechanical Engineering, Shandong University*, Jinan, China, in 2023. 
 He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from *Peking University School and Hospital of Stomatology*. Dr. Tian has authored or co-authored over 40 peer-reviewed papers in journals and conferences (e.g., IEEE TMI/ JBHI/ TIM, Mater. Design., AAAI). His current research interests cover a wide range of topics related with biomedical engineering, medical image analysis, intelligent manufacturing, artificial intelligence (AI) techniques in healthcare and medicine applications.   
