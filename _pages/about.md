@@ -25,7 +25,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 </font>
 
-</span>
+
 
 
 <span class='anchor' id='interests'>
@@ -35,7 +35,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 - AI-aided intelligent extraction of dental features(AI-aided 牙齿特征智能提取)
 - AI-aided intelligent design and manufacturing of dental restorations(AI-aided 修复体智能设计与智造)
 - AI-aided intelligent diagnosis of medical images(AI-aided 医学图像智能诊断)
-</span>
+
 
 
 <span class='anchor' id='publications'>
@@ -159,7 +159,7 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 - 袁福来, 戴宁,\* **田素坤**, 张贝, 孙玉春, 俞青, 刘浩. [采用条件生成式对抗网络的缺损牙全冠修复技术. 计算机辅助设计与图形学学报, 2019, 31(12): 2113-2120.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10039775&AN=145880763&h=NREi%2BjF0M6Ipfk4YRZ7OCYmzwR%2FqTaQZ%2BeXUl4ts9zu7dnwwrIfByLbgScC0tHq7vGEECbpyYQ7G0ug8algU6g%3D%3D&crl=c)
 - 张贝, 戴宁\*, **田素坤**, 袁福来, 俞青. [结合稀疏八叉树卷积神经网络的牙齿预备体颈缘线提取方法. 计算机辅助设计与图形学学报, 2019, 31 (12): 2129-2135.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10039775&AN=145880764&h=nfic%2FHgMPZ%2FJafVuVtUrcwK5bMzKBfRdS2fYxQdLEDh%2F%2Bvq5LRLw%2Bpinate0jjtBimSWDM03n1UixO3a1mqEFQ%3D%3D&crl=c)
 
-</span>
+
 
 
 <span class='anchor' id='patents'>
@@ -174,7 +174,7 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 7.	孙玉春;周永胜;李伟伟;陈虎;**田素坤**;翟文茹. 一种颌位关系的数字测定方法与系统: 中国, 申请号：CN202310153271.X. 申请日期：2023-02-17
 8.	孙玉春;周永胜;**田素坤**;李骋;沈妍汝;唐宝;张晓辉;翟文茹. 一次性极薄牙贴面的制作方法. 申请(专利)号：CN202310250819.2. 申请日：2023-03-15
 9.	孙玉春;周永胜;**田素坤**;柯怡芳;江泳;范宝林;翟文茹. 医用照明装置、手术床、治疗椅,及照明控制器、方法和设备. 申请(专利)号：CN202311152946.5. 申请日：2023-09-07
-</span>
+
 
 <span class='anchor' id='honors'>
 
@@ -183,7 +183,7 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 - National Scholarship for Graduate Students 研究生国家奖学金
 - First Prize, East China Division of the Chinese Graduate Electronic Design Competition 中国研究生电子设计竞赛华东赛区一等奖
 - First Prize, Outstanding Paper at the Hunan Province Graduate Innovation Forum 湖南省研究生创新论坛优秀论文一等奖
-</span>
+
 
 
 <span class='anchor' id='projects'>
@@ -192,7 +192,7 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 - \[12/2023-11/2026\] 国家重点研发计划
 - \[12/2023-12/2026\] 北京市自然科学基金海淀原始创新联合基金
 - \[12/2023-12/2024\] 国家自然科学基金青年项目
-</span>
+
 
 <span class='anchor' id='services'>
 
@@ -201,4 +201,3 @@ Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang*, Xiaotong Jiang, **Sukun Tian
 - Distinguished Expert Consultant for the Dental Equipment and Materials Professional Committee of the China Medical Device Industry Association.
 - Guest Editor for the Special Issue "Intelligent Point Cloud Processing, Sensing and Understanding" on the international journal Sensors (ISSN 1424-8220, Impact Factor: 3.847).
 - Guest Editor for Special Session 4 - "Artificial Intelligence for Medical Image Processing" at the 2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2023).
-</span>
