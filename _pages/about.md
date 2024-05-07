@@ -30,6 +30,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 <span class='anchor' id='news'>
 
+
 # News
 
 <div style="width: 200px; height:100px; overflow: auto;">
@@ -42,7 +43,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 - 1
 - 1
 - 1
-- 1
+- 2
 - 1
 - 1
 - 1
