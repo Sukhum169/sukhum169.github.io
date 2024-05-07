@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Research Interests"
-    url: "/#-interests"
+    url: "/#interests"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Patents"
-    url: "/#-patents"
+    url: "/#patents"
 
   - title: "Honors and Awards"
-    url: "/#-honors"
+    url: "/#honors"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "Services"
-    url: "/#-services"
+    url: "/#services"
