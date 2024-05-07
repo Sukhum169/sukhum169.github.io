@@ -33,7 +33,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 # News
 
-<div style="width: 1000px; height:250px; overflow: auto;">
+<div style="width: 1000px; height:250px; overflow: auto; font-family: 'Times New Roman', Times, serif;">
  <ul>
       <li>2024.03 <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
       <li>2024.02 <strong>Sukun Tian</strong>,, Miaohui Wang, Ning Dai, Haifeng Ma, Linlin Li, Luca Fiorenza, Yuchun Sun*, Yangmin Li. DCPR-GAN: Dental crown prosthesis restoration using two-stage generative adversarial networks. IEEE Journal of Biomedical and Health Informatics, 2022, 26(1): 151-160. (JCR Q1-Top, IF: 7.021).</li>
