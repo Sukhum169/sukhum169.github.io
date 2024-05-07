@@ -32,7 +32,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 # News
 
-<div style="width:200px;height:100px; overflow: auto;"
+<div style="width: 200px; height:100px; overflow: auto;">
 
 - news1
 - news2
@@ -53,7 +53,6 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 - 1
 - 1
 - 1
-
 
 </div>
 
