@@ -22,10 +22,9 @@ redirect_from:
 # Biography
 <font size=4 >
 
-&emsp;&emsp;Sukun Tian received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2020, and Post-Doctoral Fellow in School of Mechanical Engineering, Shandong University, Jinan, China, in 2023.  
-He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from Peking University School and Hospital of Stomatology. Dr. Tian has authored or co-authored over 40 peer-reviewed papers in journals and conferences (e.g., IEEE TMI/ JBHI/ TIM, Mater. Design., AAAI). His current research interests cover a wide range of topics related with biomedical engineering, medical image analysis, intelligent manufacturing, artificial intelligence (AI) techniques in healthcare and medicine applications.   
-&emsp;&emsp;田素坤，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。主要从事医学人工智能诊断与仿生设计智造技术等研究。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者。目前主持在研国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；迄今已在国内外刊物上发表论文40余篇，其中以第一/通讯作者在IEEE Trans. Med. Imag.（Q1-TOP, IF: 10.6, 1/58）、IEEE J. Biomed. Health Informat.（Q1-TOP, IF:7.7, 4/50）医工交叉领域权威期刊上发表SCI/EI论文20篇，ESI高被引论文1篇；长期担任IEEE TMI、IEEE JBHI、IEEE TIM.等国际期刊审稿人，并应邀担任国际SCI期刊Sensors和国际会议PRAI 2023客座编辑（Guest Editor）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48届日内瓦国家发明展金奖（4/13）、中国研究生电子设计竞赛华东赛区一等奖、湖南省研究生创新论坛优秀论文一等奖等10余项。
-
+<!-- &emsp;&emsp; -->
+<p>Sukun Tian received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2020, and Post-Doctoral Fellow in School of Mechanical Engineering, Shandong University, Jinan, China, in 2023.  <br>He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from Peking University School and Hospital of Stomatology. Dr. Tian has authored or co-authored over 40 peer-reviewed papers in journals and conferences (e.g., IEEE TMI/ JBHI/ TIM, Mater. Design., AAAI). His current research interests cover a wide range of topics related with biomedical engineering, medical image analysis, intelligent manufacturing, artificial intelligence (AI) techniques in healthcare and medicine applications.<br>田素坤，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。主要从事医学人工智能诊断与仿生设计智造技术等研究。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者。目前主持在研国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；迄今已在国内外刊物上发表论文40余篇，其中以第一/通讯作者在IEEE Trans. Med. Imag.（Q1-TOP, IF: 10.6, 1/58）、IEEE J. Biomed. Health Informat.（Q1-TOP, IF:7.7, 4/50）医工交叉领域权威期刊上发表SCI/EI论文20篇，ESI高被引论文1篇；长期担任IEEE TMI、IEEE JBHI、IEEE TIM.等国际期刊审稿人，并应邀担任国际SCI期刊Sensors和国际会议PRAI 2023客座编辑（Guest Editor）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48届日内瓦国家发明展金奖（4/13）、中国研究生电子设计竞赛华东赛区一等奖、湖南省研究生创新论坛优秀论文一等奖等10余项。
+</p>
 </font>
 
 
@@ -33,7 +32,7 @@ He is currently an Assistant Professor/Associate Researcher and PhD Supervisor w
 
 # News
 
-<div style="width: 1000px; height:250px; overflow: auto; font-family: 'Times New Roman', Times, serif;">
+<div style="width: 1000px; height:250px; overflow: auto;">
  <ul>
       <li>[2024.04.01] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
       <li>[2024.03] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
