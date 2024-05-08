@@ -16,7 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-# Biography
+<!-- # Biography -->
+<h1>Biography</h1>
 
 <span class='anchor' id='biography' style="text-align: justify;">
 
@@ -31,7 +32,8 @@ redirect_from:
 
 
 
-# News
+<!-- # News -->
+<h1>News</h1>
 
 <span class='anchor' id='news' style="text-align: justify;">
 
@@ -53,7 +55,9 @@ redirect_from:
 
 
 
-# Research Interests
+<!-- # Research Interests -->
+<h1>Research Interests</h1>
+
 <span class='anchor' id='interests' >
 
 <div class='paper-box'><div class='paper-box-image'>
@@ -92,7 +96,9 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 
-# Publications 
+<!-- # Publications  -->
+<h1>Publications </h1>
+
 <span class='anchor' id='publications' style="text-align: justify; font-size: 20px;">
 
 **Note**:* Corresponding author, # Co-first authors.
@@ -164,9 +170,10 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 8.	孙玉春;周永胜;**田素坤**;李骋;沈妍汝;唐宝;张晓辉;翟文茹. 一次性极薄牙贴面的制作方法. 申请(专利)号：CN202310250819.2. 申请日：2023-03-15
 9.	孙玉春;周永胜;**田素坤**;柯怡芳;江泳;范宝林;翟文茹. 医用照明装置、手术床、治疗椅,及照明控制器、方法和设备. 申请(专利)号：CN202311152946.5. 申请日：2023-09-07 -->
 
+<!-- # Patents -->
+<h1>Patents</h1>
 
 <div class='anchor' id='patents' style="text-align: justify; font-size: 20px;">
-# Patents
     <ol>
         <li>马海峰, <strong>田素坤</strong>, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）</li>
         <li>陈金友, 胡巍, 廖金雄, <strong>田素坤</strong>. 一种柔性仿生机械抓取装置: 中国, 授权号：ZL202010909342.0.</li>
@@ -181,7 +188,8 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 </div>
 
 
-# Honors and Awards
+<!-- # Honors and Awards -->
+<h1>Honors and Awards</h1>
 
 <!-- <span class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
 
