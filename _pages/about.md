@@ -190,11 +190,11 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 # Services
-<span class='anchor' id='services' style="text-align: justify;">
+<span class='anchor' id='services'>
 
-<div style="font-size: 20px;">
+<div style="font-size: 20px; text-align: justify;">
  <ul>
-      <li>Long-term reviewer for journals such as Comput. Biol. Med. (JCR Q1, IF: 6.698), Int. J. Numer. Methods Biomed. Eng. (JCR Q2, IF: 2.648), Sci. Rep. (JCR Q2, IF: 4.996), IEEE Access (JCR Q2, IF: 3.476), etc.</li>
+    <li>Long-term reviewer for journals such as Comput. Biol. Med. (JCR Q1, IF: 6.698), Int. J. Numer. Methods Biomed. Eng. (JCR Q2, IF: 2.648), Sci. Rep. (JCR Q2, IF: 4.996), IEEE Access (JCR Q2, IF: 3.476), etc.</li>
     <li>Distinguished Expert Consultant for the Dental Equipment and Materials Professional Committee of the China Medical Device Industry Association.</li>
     <li>Guest Editor for the Special Issue "Intelligent Point Cloud Processing, Sensing and Understanding" on the international journal <em>Sensors</em> (ISSN 1424-8220, Impact Factor: 3.847).</li>
     <li>Guest Editor for Special Session 4 - "Artificial Intelligence for Medical Image Processing" at the 2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2023).</li>
