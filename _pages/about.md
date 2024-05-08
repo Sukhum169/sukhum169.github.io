@@ -58,7 +58,7 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'>
 <div><img src='images/方向1.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 18px;">
+<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Intelligent Extraction of Dental Features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)  
 AI-aided teeth feature intelligent extraction is an innovative research integrating artificial intelligence technology with the dental field. Its objective is to utilize computer vision and machine learning algorithms to automatically identify and extract key features from dental images, such as tooth morphology, position, and spacing. This facilitates rapid and accurate assistance for dental diagnosis and treatment, promoting the intelligent and precise development of dental healthcare.
@@ -70,7 +70,7 @@ AI-aided teeth feature intelligent extraction is an innovative research integrat
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/方向2.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 18px;">
+<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Intelligent Design and Manufacturing of Dental Prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)  
 AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic that combines artificial intelligence with prosthetic dentistry. It aims to leverage AI algorithms to optimize the design process of dental prostheses, such as crowns, bridges, and dentures, based on individual patient data and requirements. By integrating AI into the manufacturing process, it enables the production of customized prosthetic devices with improved accuracy, fit, and functionality. This innovative approach promises to revolutionize the field of prosthodontics by streamlining workflow, enhancing patient outcomes, and advancing the overall quality of dental care.
@@ -80,7 +80,7 @@ AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/方向3.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 19px;">
+<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Medical Image Intelligent Diagnosis](https://ieeexplore.ieee.org/abstract/document/9868801)  
 AI-aided Medical Image Intelligent Diagnosis is an emerging field at the intersection of artificial intelligence and healthcare. It involves the application of advanced machine learning and computer vision techniques to analyze medical images, such as X-rays, MRIs, and CT scans, for accurate and efficient diagnosis of various diseases and conditions. By training AI models on vast amounts of annotated medical image data, these systems can recognize patterns and abnormalities that may be imperceptible to the human eye, assisting healthcare professionals in making timely and precise diagnoses. This technology holds great promise in improving diagnostic accuracy, reducing interpretation time, and ultimately enhancing patient care across diverse medical specialties.
@@ -93,7 +93,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 # Publications 
-<div class='anchor' id='publications' style="text-align: justify; font-size: 20px;">
+<span class='anchor' id='publications' style="text-align: justify; font-size: 18px;">
 
 **Note**:* Corresponding author, # Co-first authors.
 ## **2024**
@@ -148,7 +148,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 - 袁福来, 戴宁,\* **田素坤**, 张贝, 孙玉春, 俞青, 刘浩. [采用条件生成式对抗网络的缺损牙全冠修复技术. 计算机辅助设计与图形学学报, 2019, 31(12): 2113-2120.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10039775&AN=145880763&h=NREi%2BjF0M6Ipfk4YRZ7OCYmzwR%2FqTaQZ%2BeXUl4ts9zu7dnwwrIfByLbgScC0tHq7vGEECbpyYQ7G0ug8algU6g%3D%3D&crl=c)
 - 张贝, 戴宁\*, **田素坤**, 袁福来, 俞青. [结合稀疏八叉树卷积神经网络的牙齿预备体颈缘线提取方法. 计算机辅助设计与图形学学报, 2019, 31 (12): 2129-2135.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10039775&AN=145880764&h=nfic%2FHgMPZ%2FJafVuVtUrcwK5bMzKBfRdS2fYxQdLEDh%2F%2Bvq5LRLw%2Bpinate0jjtBimSWDM03n1UixO3a1mqEFQ%3D%3D&crl=c)
 
-</div>
+
 
 
 <span class='anchor' id='patents' style="text-align: justify; font-size: 20px;"
