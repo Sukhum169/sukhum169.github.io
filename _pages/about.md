@@ -30,7 +30,7 @@ redirect_from:
 <br>&emsp;&emsp;目前主持在研国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；迄今已在国内外刊物上发表论文40余篇，其中以第一/通讯作者在IEEE Trans. Med. Imag.（Q1-TOP, IF: 10.6, 1/58）、IEEE J. Biomed. Health Informat.（Q1-TOP, IF:7.7, 4/50）医工交叉领域权威期刊上发表SCI/EI论文20篇，ESI高被引论文1篇；长期担任IEEE TMI、IEEE JBHI、IEEE TIM.等国际期刊审稿人，并应邀担任国际SCI期刊Sensors和国际会议PRAI 2023客座编辑（Guest Editor）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48届日内瓦国家发明展金奖（4/13）、中国研究生电子设计竞赛华东赛区一等奖、湖南省研究生创新论坛优秀论文一等奖等10余项。
 </p>
 <!-- </font> -->
-</span>
+
 
 <span class='anchor' id='news' style="text-align: justify;">
 
@@ -50,9 +50,9 @@ redirect_from:
   </ul>
 
 </div>
-</span>
 
-<span class='anchor' id='interests'>
+
+<span class='anchor' id='interests' style="text-align: justify;">
 
 # Research Interests
 
@@ -90,7 +90,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 
-<span class='anchor' id='publications'>
+<span class='anchor' id='publications' style="text-align: justify;">
 
 # Publications 
 **Note**:* Corresponding author, # Co-first authors.
@@ -149,7 +149,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 
-<span class='anchor' id='patents'>
+<span class='anchor' id='patents' style="text-align: justify;"
 
 # Patents
 1.	马海峰, **田素坤**, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）
@@ -163,7 +163,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 9.	孙玉春;周永胜;**田素坤**;柯怡芳;江泳;范宝林;翟文茹. 医用照明装置、手术床、治疗椅,及照明控制器、方法和设备. 申请(专利)号：CN202311152946.5. 申请日：2023-09-07
 
 
-<span class='anchor' id='honors'>
+<span class='anchor' id='honors' style="text-align: justify;">
 
 # Honors and Awards
 - Gold Award 48th Geneva International Exhibition of Inventions 第48届日内瓦国家发明展金奖
@@ -173,7 +173,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 
-<span class='anchor' id='projects'>
+<span class='anchor' id='projects' style="text-align: justify;">
 
 # Projects
 - \[12/2023-11/2026\] 国家重点研发计划
@@ -181,7 +181,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 - \[12/2023-12/2024\] 国家自然科学基金青年项目
 
 
-<span class='anchor' id='services'>
+<span class='anchor' id='services' style="text-align: justify;">
 
 # Services
 - Long-term reviewer for journals such as Comput. Biol. Med. (JCR Q1, IF: 6.698), Int. J. Numer. Methods Biomed. Eng. (JCR Q2, IF: 2.648), Sci. Rep. (JCR Q2, IF: 4.996), IEEE Access (JCR Q2, IF: 3.476), etc.
