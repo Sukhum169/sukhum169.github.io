@@ -103,7 +103,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <span class='anchor' id='publications' style="text-align: justify; font-size: 20px;">
 
 <!-- **Note**:* Corresponding author, # Co-first authors. -->
-<p style="font-size: 20px;"><strong>Note:</strong> * Corresponding author,< # Co-first authors.</p>
+<p style="font-size: 20px;"><strong>Note:</strong> * Corresponding author,# Co-first authors.</p>
 
 ## **2024**
 - Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, Luca Fiorenza, Hu Chen\*, **Sukun Tian\***, Yuchun Sun\*, [Efficient complete denture metal base design via a dental feature-driven segmentation network. Computers in Biology and Medicine, 2024, 175: 108550.](https://www.sciencedirect.com/science/article/pii/S0010482524006346)
