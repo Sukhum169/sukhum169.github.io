@@ -17,7 +17,7 @@ redirect_from:
 
 
 <!-- # Biography -->
-<h1 style="color: #55acee;">Biography</h1>
+<h1 style="color: #55acee; font-size: 22px;">Biography</h1>
 
 <span class='anchor' id='biography' style="text-align: justify;">
 
@@ -33,7 +33,7 @@ redirect_from:
 
 
 <!-- # News -->
-<h1>News</h1>
+<h1 style="color: #55acee; font-size: 22px;">News</h1>
 
 <span class='anchor' id='news' style="text-align: justify;">
 
@@ -56,7 +56,7 @@ redirect_from:
 
 
 <!-- # Research Interests -->
-<h1>Research Interests</h1>
+<h1 style="color: #55acee; font-size: 22px;">Research Interests</h1>
 
 <span class='anchor' id='interests' >
 
@@ -97,7 +97,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 
 <!-- # Publications  -->
-<h1>Publications </h1>
+<h1 style="color: #55acee; font-size: 22px;">Publications </h1>
 
 <span class='anchor' id='publications' style="text-align: justify; font-size: 20px;">
 
@@ -171,7 +171,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 9.	孙玉春;周永胜;**田素坤**;柯怡芳;江泳;范宝林;翟文茹. 医用照明装置、手术床、治疗椅,及照明控制器、方法和设备. 申请(专利)号：CN202311152946.5. 申请日：2023-09-07 -->
 
 <!-- # Patents -->
-<h1>Patents</h1>
+<h1 style="color: #55acee; font-size: 22px;">Patents</h1>
 
 <div class='anchor' id='patents' style="text-align: justify; font-size: 20px;">
     <ol>
@@ -189,7 +189,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 
 <!-- # Honors and Awards -->
-<h1>Honors and Awards</h1>
+<h1 style="color: #55acee; font-size: 22px;">Honors and Awards</h1>
 
 <!-- <span class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
 
@@ -210,7 +210,9 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 
 
-# Projects
+<!-- # Projects -->
+<h1 style="color: #55acee; font-size: 22px;">Projects</h1>
+
 <div class='anchor' id='projects' style="text-align: justify; font-size: 20px;">
  <ul> 
   <li>[12/2023-11/2026] 国家重点研发计划</li>
@@ -221,7 +223,9 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 
 
-# Services
+<!-- # Services -->
+<h1 style="color: #55acee; font-size: 22px;">Services</h1>
+
 <span class='anchor' id='services'>
 
 <div style="font-size: 20px; text-align: justify;">
