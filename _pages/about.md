@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='biography' style="text-align: justify;">
 
 # Biography
-<!-- <font size=4 > -->
+<font size=4 >
 
 <!-- &emsp;&emsp; 用于增加两个缩进-->
 <!-- 换行语法<p>这是第一行<br>这是第二行</p> -->
@@ -29,7 +29,7 @@ redirect_from:
 <br>&emsp;&emsp;田素坤，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。主要从事医学人工智能诊断与仿生设计智造技术等研究。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者。
 <br>&emsp;&emsp;目前主持在研国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；迄今已在国内外刊物上发表论文40余篇，其中以第一/通讯作者在IEEE Trans. Med. Imag.（Q1-TOP, IF: 10.6, 1/58）、IEEE J. Biomed. Health Informat.（Q1-TOP, IF:7.7, 4/50）医工交叉领域权威期刊上发表SCI/EI论文20篇，ESI高被引论文1篇；长期担任IEEE TMI、IEEE JBHI、IEEE TIM.等国际期刊审稿人，并应邀担任国际SCI期刊Sensors和国际会议PRAI 2023客座编辑（Guest Editor）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48届日内瓦国家发明展金奖（4/13）、中国研究生电子设计竞赛华东赛区一等奖、湖南省研究生创新论坛优秀论文一等奖等10余项。
 </p>
-<!-- </font> -->
+</font>
 
 
 <span class='anchor' id='news' style="text-align: justify;">
