@@ -58,7 +58,7 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'>
 <div><img src='images/方向1.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
+<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 18px;">
 
 [AI-aided Intelligent Extraction of Dental Features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)  
 AI-aided teeth feature intelligent extraction is an innovative research integrating artificial intelligence technology with the dental field. Its objective is to utilize computer vision and machine learning algorithms to automatically identify and extract key features from dental images, such as tooth morphology, position, and spacing. This facilitates rapid and accurate assistance for dental diagnosis and treatment, promoting the intelligent and precise development of dental healthcare.
