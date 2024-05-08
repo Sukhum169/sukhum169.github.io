@@ -70,7 +70,7 @@ AI-aided teeth feature intelligent extraction is an innovative research integrat
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/方向2.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Intelligent Design and Manufacturing of Dental Prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)  
 AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic that combines artificial intelligence with prosthetic dentistry. It aims to leverage AI algorithms to optimize the design process of dental prostheses, such as crowns, bridges, and dentures, based on individual patient data and requirements. By integrating AI into the manufacturing process, it enables the production of customized prosthetic devices with improved accuracy, fit, and functionality. This innovative approach promises to revolutionize the field of prosthodontics by streamlining workflow, enhancing patient outcomes, and advancing the overall quality of dental care.
@@ -80,7 +80,7 @@ AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/方向3.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Medical Image Intelligent Diagnosis](https://ieeexplore.ieee.org/abstract/document/9868801)  
 AI-aided Medical Image Intelligent Diagnosis is an emerging field at the intersection of artificial intelligence and healthcare. It involves the application of advanced machine learning and computer vision techniques to analyze medical images, such as X-rays, MRIs, and CT scans, for accurate and efficient diagnosis of various diseases and conditions. By training AI models on vast amounts of annotated medical image data, these systems can recognize patterns and abnormalities that may be imperceptible to the human eye, assisting healthcare professionals in making timely and precise diagnoses. This technology holds great promise in improving diagnostic accuracy, reducing interpretation time, and ultimately enhancing patient care across diverse medical specialties.
@@ -93,7 +93,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 # Publications 
-<span class='anchor' id='publications' style="text-align: justify;">
+<span class='anchor' id='publications' style="text-align: justify; font-size: 20px;">
 
 **Note**:* Corresponding author, # Co-first authors.
 ## **2024**
@@ -151,7 +151,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 
-<span class='anchor' id='patents' style="text-align: justify;"
+<span class='anchor' id='patents' style="text-align: justify; font-size: 20px;"
 
 # Patents
 1.	马海峰, **田素坤**, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）
@@ -168,7 +168,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 # Honors and Awards
 
-<span class='anchor' id='honors' style="text-align: justify;">
+<span class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
 
 - Gold Award 48th Geneva International Exhibition of Inventions 第48届日内瓦国家发明展金奖
 - National Scholarship for Graduate Students 研究生国家奖学金
