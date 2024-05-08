@@ -24,7 +24,7 @@ redirect_from:
 
 &emsp;&emsp;Sukun Tian received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2020, and Post-Doctoral Fellow in School of Mechanical Engineering, Shandong University, Jinan, China, in 2023. 
 He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from Peking University School and Hospital of Stomatology. Dr. Tian has authored or co-authored over 40 peer-reviewed papers in journals and conferences (e.g., IEEE TMI/ JBHI/ TIM, Mater. Design., AAAI). His current research interests cover a wide range of topics related with biomedical engineering, medical image analysis, intelligent manufacturing, artificial intelligence (AI) techniques in healthcare and medicine applications.   
-&emsp;&emsp;田素坤，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。主要从事医学人工智能诊断与仿生设计智造技术等研究。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者。目前主持在研国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；迄今已在国内外刊物上发表论文40余篇，其中以第一/通讯作者在IEEE Trans. Med. Imag.（Q1-TOP, IF: 10.6, 1/58）、IEEE J. Biomed. Health Informat.（Q1-TOP, IF:7.7, 4/50）医工交叉领域权威期刊上发表SCI/EI论文20篇，ESI高被引论文1篇；长期担任IEEE TMI、IEEE JBHI、IEEE TIM.等国际期刊审稿人，并应邀担任国际SCI期刊Sensors和国际会议PRAI 2023客座编辑（Guest Editor）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48届日内瓦国家发明展金奖（4/13）、中国研究生电子设计竞赛华东赛区一等奖、湖南省研究生创新论坛优秀论文一等奖等10余项。
+
 
 </font>
 
@@ -69,7 +69,7 @@ AI-aided teeth feature intelligent extraction is an innovative research integrat
 <img src='images/方向2.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AI-aided Intelligent Design and Manufacturing of Dental Prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)
+[AI-aided Intelligent Design and Manufacturing of Dental Prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)  
 AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic that combines artificial intelligence with prosthetic dentistry. It aims to leverage AI algorithms to optimize the design process of dental prostheses, such as crowns, bridges, and dentures, based on individual patient data and requirements. By integrating AI into the manufacturing process, it enables the production of customized prosthetic devices with improved accuracy, fit, and functionality. This innovative approach promises to revolutionize the field of prosthodontics by streamlining workflow, enhancing patient outcomes, and advancing the overall quality of dental care.
 
 </div>
@@ -79,7 +79,7 @@ AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic
 <img src='images/方向3.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AI-aided Medical Image Intelligent Diagnosis](https://ieeexplore.ieee.org/abstract/document/9868801)
+[AI-aided Medical Image Intelligent Diagnosis](https://ieeexplore.ieee.org/abstract/document/9868801)  
 AI-aided Medical Image Intelligent Diagnosis is an emerging field at the intersection of artificial intelligence and healthcare. It involves the application of advanced machine learning and computer vision techniques to analyze medical images, such as X-rays, MRIs, and CT scans, for accurate and efficient diagnosis of various diseases and conditions. By training AI models on vast amounts of annotated medical image data, these systems can recognize patterns and abnormalities that may be imperceptible to the human eye, assisting healthcare professionals in making timely and precise diagnoses. This technology holds great promise in improving diagnostic accuracy, reducing interpretation time, and ultimately enhancing patient care across diverse medical specialties.
 
 </div>
