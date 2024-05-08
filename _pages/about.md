@@ -17,7 +17,7 @@ redirect_from:
 
 
 <!-- # Biography -->
-<h1>Biography</h1>
+<h1 style="color: $twitter-color;">Biography</h1>
 
 <span class='anchor' id='biography' style="text-align: justify;">
 
