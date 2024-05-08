@@ -16,11 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-
-<span class='anchor' id='biography' style="text-align: justify;">
-
 # Biography
-<font size=4 >
+
+<span class='anchor' id='biography' style="text-align: justify; font-size: 16px;">
 
 <!-- &emsp;&emsp; 用于增加两个缩进-->
 <!-- 换行语法<p>这是第一行<br>这是第二行</p> -->
@@ -29,14 +27,15 @@ redirect_from:
 <br>&emsp;&emsp;田素坤，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。主要从事医学人工智能诊断与仿生设计智造技术等研究。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者。
 <br>&emsp;&emsp;目前主持在研国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；迄今已在国内外刊物上发表论文40余篇，其中以第一/通讯作者在IEEE Trans. Med. Imag.（Q1-TOP, IF: 10.6, 1/58）、IEEE J. Biomed. Health Informat.（Q1-TOP, IF:7.7, 4/50）医工交叉领域权威期刊上发表SCI/EI论文20篇，ESI高被引论文1篇；长期担任IEEE TMI、IEEE JBHI、IEEE TIM.等国际期刊审稿人，并应邀担任国际SCI期刊Sensors和国际会议PRAI 2023客座编辑（Guest Editor）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48届日内瓦国家发明展金奖（4/13）、中国研究生电子设计竞赛华东赛区一等奖、湖南省研究生创新论坛优秀论文一等奖等10余项。
 </p>
-</font>
 
 
-<span class='anchor' id='news' style="text-align: justify;">
+
 
 # News
 
-<div style="width: 1000px; height:250px; overflow: auto;">
+<span class='anchor' id='news' style="text-align: justify;">
+
+<div style="width: 1000px; height:250px; overflow: auto; font-size: 14px;">
  <ul>
       <li>[2024.04.01] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
       <li>[2024.03] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
@@ -52,13 +51,14 @@ redirect_from:
 </div>
 
 
-<span class='anchor' id='interests' >
+
 
 # Research Interests
+<span class='anchor' id='interests' >
 
 <div class='paper-box'><div class='paper-box-image'>
 <div><img src='images/方向1.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 14px;">
 
 [AI-aided Intelligent Extraction of Dental Features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)  
 AI-aided teeth feature intelligent extraction is an innovative research integrating artificial intelligence technology with the dental field. Its objective is to utilize computer vision and machine learning algorithms to automatically identify and extract key features from dental images, such as tooth morphology, position, and spacing. This facilitates rapid and accurate assistance for dental diagnosis and treatment, promoting the intelligent and precise development of dental healthcare.
@@ -90,9 +90,11 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 
-<span class='anchor' id='publications' style="text-align: justify;">
+
 
 # Publications 
+<span class='anchor' id='publications' style="text-align: justify;">
+
 **Note**:* Corresponding author, # Co-first authors.
 ## **2024**
 - Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, Luca Fiorenza, Hu Chen\*, **Sukun Tian\***, Yuchun Sun\*, [Efficient complete denture metal base design via a dental feature-driven segmentation network. Computers in Biology and Medicine, 2024, 175: 108550.](https://www.sciencedirect.com/science/article/pii/S0010482524006346)
@@ -163,9 +165,11 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 9.	孙玉春;周永胜;**田素坤**;柯怡芳;江泳;范宝林;翟文茹. 医用照明装置、手术床、治疗椅,及照明控制器、方法和设备. 申请(专利)号：CN202311152946.5. 申请日：2023-09-07
 
 
-<span class='anchor' id='honors' style="text-align: justify;">
 
 # Honors and Awards
+
+<span class='anchor' id='honors' style="text-align: justify;">
+
 - Gold Award 48th Geneva International Exhibition of Inventions 第48届日内瓦国家发明展金奖
 - National Scholarship for Graduate Students 研究生国家奖学金
 - First Prize, East China Division of the Chinese Graduate Electronic Design Competition 中国研究生电子设计竞赛华东赛区一等奖
@@ -173,17 +177,21 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 
-<span class='anchor' id='projects' style="text-align: justify;">
+
 
 # Projects
+<span class='anchor' id='projects' style="text-align: justify;">
+
 - \[12/2023-11/2026\] 国家重点研发计划
 - \[12/2023-12/2026\] 北京市自然科学基金海淀原始创新联合基金
 - \[12/2023-12/2024\] 国家自然科学基金青年项目
 
 
-<span class='anchor' id='services' style="text-align: justify;">
+
 
 # Services
+<span class='anchor' id='services' style="text-align: justify;">
+
 <p>
   <li>Long-term reviewer for journals such as Comput. Biol. Med. (JCR Q1, IF: 6.698), Int. J. Numer. Methods Biomed. Eng. (JCR Q2, IF: 2.648), Sci. Rep. (JCR Q2, IF: 4.996), IEEE Access (JCR Q2, IF: 3.476), etc.</li>
   <li>Distinguished Expert Consultant for the Dental Equipment and Materials Professional Committee of the China Medical Device Industry Association.</li>
