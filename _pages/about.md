@@ -164,8 +164,9 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 8.	孙玉春;周永胜;**田素坤**;李骋;沈妍汝;唐宝;张晓辉;翟文茹. 一次性极薄牙贴面的制作方法. 申请(专利)号：CN202310250819.2. 申请日：2023-03-15
 9.	孙玉春;周永胜;**田素坤**;柯怡芳;江泳;范宝林;翟文茹. 医用照明装置、手术床、治疗椅,及照明控制器、方法和设备. 申请(专利)号：CN202311152946.5. 申请日：2023-09-07 -->
 
+
 <div class='anchor' id='patents' style="text-align: justify; font-size: 20px;">
-    <h1>Patents</h1>
+# Patents
     <ol>
         <li>马海峰, <strong>田素坤</strong>, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）</li>
         <li>陈金友, 胡巍, 廖金雄, <strong>田素坤</strong>. 一种柔性仿生机械抓取装置: 中国, 授权号：ZL202010909342.0.</li>
@@ -194,12 +195,13 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 # Projects
-<span class='anchor' id='projects' style="text-align: justify;">
-
-- <li>\[12/2023-11/2026\] 国家重点研发计划</li>
-- \[12/2023-12/2026\] 北京市自然科学基金海淀原始创新联合基金
-- \[12/2023-12/2024\] 国家自然科学基金青年项目
-
+<div class='anchor' id='projects' style="text-align: justify; font-size: 20px;">
+ <ul> 
+  <li>[12/2023-11/2026] 国家重点研发计划</li>
+  <li>[12/2023-12/2026] 北京市自然科学基金海淀原始创新联合基金</li>
+  <li>[12/2023-12/2024] 国家自然科学基金青年项目</li>
+</ul>
+</div>
 
 
 
