@@ -18,7 +18,7 @@ redirect_from:
 
 # Biography
 
-<span class='anchor' id='biography' style="text-align: justify; font-size: 16px;">
+<span class='anchor' id='biography' style="text-align: justify; font-size: 20px;">
 
 <!-- &emsp;&emsp; 用于增加两个缩进-->
 <!-- 换行语法<p>这是第一行<br>这是第二行</p> -->
@@ -35,7 +35,7 @@ redirect_from:
 
 <span class='anchor' id='news' style="text-align: justify;">
 
-<div style="width: 1000px; height:250px; overflow: auto; font-size: 14px;">
+<div style="width: 1000px; height:250px; overflow: auto; font-size: 20px;">
  <ul>
       <li>[2024.04.01] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
       <li>[2024.03] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
@@ -58,7 +58,7 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'>
 <div><img src='images/方向1.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 14px;">
+<div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Intelligent Extraction of Dental Features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)  
 AI-aided teeth feature intelligent extraction is an innovative research integrating artificial intelligence technology with the dental field. Its objective is to utilize computer vision and machine learning algorithms to automatically identify and extract key features from dental images, such as tooth morphology, position, and spacing. This facilitates rapid and accurate assistance for dental diagnosis and treatment, promoting the intelligent and precise development of dental healthcare.
