@@ -93,7 +93,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 
 
 # Publications 
-<span class='anchor' id='publications' style="text-align: justify; font-size: 20px;">
+<div class='anchor' id='publications' style="text-align: justify; font-size: 20px;">
 
 **Note**:* Corresponding author, # Co-first authors.
 ## **2024**
@@ -148,7 +148,7 @@ AI-aided Medical Image Intelligent Diagnosis is an emerging field at the interse
 - 袁福来, 戴宁,\* **田素坤**, 张贝, 孙玉春, 俞青, 刘浩. [采用条件生成式对抗网络的缺损牙全冠修复技术. 计算机辅助设计与图形学学报, 2019, 31(12): 2113-2120.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10039775&AN=145880763&h=NREi%2BjF0M6Ipfk4YRZ7OCYmzwR%2FqTaQZ%2BeXUl4ts9zu7dnwwrIfByLbgScC0tHq7vGEECbpyYQ7G0ug8algU6g%3D%3D&crl=c)
 - 张贝, 戴宁\*, **田素坤**, 袁福来, 俞青. [结合稀疏八叉树卷积神经网络的牙齿预备体颈缘线提取方法. 计算机辅助设计与图形学学报, 2019, 31 (12): 2129-2135.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10039775&AN=145880764&h=nfic%2FHgMPZ%2FJafVuVtUrcwK5bMzKBfRdS2fYxQdLEDh%2F%2Bvq5LRLw%2Bpinate0jjtBimSWDM03n1UixO3a1mqEFQ%3D%3D&crl=c)
 
-
+</div>
 
 
 <span class='anchor' id='patents' style="text-align: justify; font-size: 20px;"
