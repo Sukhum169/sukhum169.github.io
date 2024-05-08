@@ -18,7 +18,7 @@ redirect_from:
 
 # Biography
 
-<span class='anchor' id='biography' style="text-align: justify; font-size: 20px;">
+<span class='anchor' id='biography' style="text-align: justify; font-size: 24px;">
 
 <!-- &emsp;&emsp; 用于增加两个缩进-->
 <!-- 换行语法<p>这是第一行<br>这是第二行</p> -->
