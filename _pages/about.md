@@ -77,7 +77,7 @@ AI-aided teeth feature intelligent extraction is an innovative research integrat
 <div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Intelligent Design and Manufacturing of Dental Prosthesis](https://ieeexplore.ieee.org/abstract/document/9422832)  
-AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic that combines artificial intelligence with prosthetic dentistry. It aims to leverage AI algorithms to optimize the design process of dental prostheses, such as crowns, bridges, and dentures, based on individual patient data and requirements. By integrating AI into the manufacturing process, it enables the production of customized prosthetic devices with improved accuracy, fit, and functionality. This innovative approach promises to revolutionize the field of prosthodontics by streamlining workflow, enhancing patient outcomes, and advancing the overall quality of dental care.
+It aims to leverage AI algorithms to optimize the design process of dental prostheses, such as crowns, bridges, and dentures, based on individual patient data and requirements. By integrating AI into the manufacturing process, it enables the production of customized prosthetic devices with improved accuracy, fit, and functionality. This innovative approach promises to revolutionize the field of prosthodontics by streamlining workflow, enhancing patient outcomes, and advancing the overall quality of dental care.
 
 </div>
 </div> 
@@ -87,7 +87,7 @@ AI-aided Prosthesis Intelligent Design and Manufacturing is a cutting-edge topic
 <div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Medical Image Intelligent Diagnosis](https://ieeexplore.ieee.org/abstract/document/9868801)  
-AI-aided Medical Image Intelligent Diagnosis is an emerging field at the intersection of artificial intelligence and healthcare. It involves the application of advanced machine learning and computer vision techniques to analyze medical images, such as X-rays, MRIs, and CT scans, for accurate and efficient diagnosis of various diseases and conditions. By training AI models on vast amounts of annotated medical image data, these systems can recognize patterns and abnormalities that may be imperceptible to the human eye, assisting healthcare professionals in making timely and precise diagnoses. This technology holds great promise in improving diagnostic accuracy, reducing interpretation time, and ultimately enhancing patient care across diverse medical specialties.
+By training AI models on vast amounts of annotated medical image data, these systems can recognize patterns and abnormalities that may be imperceptible to the human eye, assisting healthcare professionals in making timely and precise diagnoses. This technology holds great promise in improving diagnostic accuracy, reducing interpretation time, and ultimately enhancing patient care across diverse medical specialties.
 
 </div>
 </div>
