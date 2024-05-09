@@ -103,16 +103,18 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <span class='anchor' id='publications' style="text-align: justify; font-size: 20px;">
 
 <!-- **Note**:* Corresponding author, # Co-first authors. -->
-<p style="font-size: 20px;"><strong>Note:</strong> * Corresponding author,# Co-first authors.</p>
+<p style="font-size: 20px;"><strong>Note:</strong> * Corresponding author, # Co-first authors.</p>
 
-## **2024**
+<h2 style="font-size: 20px;">2024</h2>
+
 - Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, Luca Fiorenza, Hu Chen\*, **Sukun Tian\***, Yuchun Sun\*, [Efficient complete denture metal base design via a dental feature-driven segmentation network. Computers in Biology and Medicine, 2024, 175: 108550.](https://www.sciencedirect.com/science/article/pii/S0010482524006346)
 - Hongyan Wang, Hu Chen, **Sukun Tian**, Yuchun Sun, Feng Wu, [Quantitative evaluation of the proximal contact area gap change characterization under intercuspal occlusion by intraoral 3D scanning: Food impaction with tight proximal contact. Journal of Esthetic and Restorative Dentistry, 2024, Doi.org/10.1111/jerd.13240.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jerd.13240)
 - Pan Huang, Chentao Li, Peng He, Hualiang Xiao, Yifang Ping, Peng Feng, **Sukun Tian**, Hu Chen, Francesco Mercaldo, Antonella Santone, Hui-yuan Yeh, Jing Qin, [MamlFormer Priori-experience Guiding Transformer Network via Manifold Adversarial Multi modal Learning for Laryngeal Histopathological Grading, Information Fusion](https://doi.org/10.1016/j.inffus.2024.102333)
 - Pan Huang, Hualiang Xiao, Peng He\*, Chentao Li, Xiaodong Guo, **Sukun Tian\***, Peng Feng\*, Hu Chen, Yuchun Sun, Francesco Mercaldo, Antonella Santone, Jing Qin. [LA-ViT: A Network with Transformers Constrained by Learned-Parameter-Free Attention for Interpretable Grading in a New Laryngeal Histopathology Image Dataset, IEEE Journal of Biomedical and Health Informatics, 2024, DOI 10.1109/JBHI.2024.3373438](https://ieeexplore.ieee.org/abstract/document/10460116/)
 - Wang Miaohui\*, Yue Guanghui, Xiong Jian, **Tian Sukun\***, [Intelligent Point Cloud Processing, Sensing, and Understanding. Sensors, 2024, 24(1): 283.](https://www.mdpi.com/1424-8220/24/1/283)
 
-## **2023**
+<h2 style="font-size: 20px;">2023</h2>
+
 - Pan Huang, Peng He, **Sukun Tian\***, Mingrui Ma, Peng Feng\*, Hualiang Xiao\*, Francesco Mercaldo, Antonella Santone, Jing Qin. [A ViT-AMC network with adaptive model fusion and multiobjective optimization for interpretable laryngeal tumor grading from histopathological images. IEEE Transactions on Medical Imaging, 2023, 42(1): 15-28](https://ieeexplore.ieee.org/abstract/document/9868801/)  
 - Renkai Huang, Ning Dai, Chunrong Pan, Youwen Yang\*, Xiaotong Jiang, **Sukun Tian\***, Zhe Zhang. [Grid-tree composite support structures for lattice parts in selective laser melting. Materials & Design, 2023, 225: 111499.](https://www.sciencedirect.com/science/article/pii/S0264127522011224)
 - Xinze Shen, Changdong Zhang, Xiuyi Jia, Dawei Li, Tingting Liu\*, **Sukun Tian\***, Wei Wei, Yuchun Sun, Wenhe Liao\*. [TranSDFNet: Transformer-based truncated signed distance fields for the design of RPD clasps. IEEE Journal of Biomedical and Health Informatics, 2023, 27(10): 4950 - 4960.](https://ieeexplore.ieee.org/abstract/document/10188897/)
@@ -124,7 +126,9 @@ By training AI models on vast amounts of annotated medical image data, these sys
 - Wuyuan Xie, Shukang Wang, **Sukun Tian**, Lirong Hunag, Ye Liu, Miaohui Wang. [Just noticeable visual redundancy forecasting: A deep multimodal-driven approach. Proceedings of the AAAI Conference on Artificial Intelligence. 2023.](https://ojs.aaai.org/index.php/AAAI/article/view/25399)
 - 黄盼, 何鹏, 杨兴, 罗家洋, 肖华亮\*, **田素坤\***, 冯鹏\*. [基于自适应融合和显微成像的乳腺肿瘤分级网络. 光电工程，2023, 50(1): 220158.](https://www.researching.cn/ArticlePdf/m00029/2023/50/1/220158.pdf)
 
-## **2022**
+
+<h2 style="font-size: 20px;">2022</h2>
+
 - **Sukun Tian**, Miaohui Wang, Ning Dai\*, Haifeng Ma\*, Linlin Li, Luca Fiorenza, Yuchun Sun\*, Yangmin Li. [DCPR-GAN: Dental crown prosthesis restoration using two-stage generative adversarial networks. IEEE Journal of Biomedical and Health Informatics, 2022, 26(1): 151-160.](https://ieeexplore.ieee.org/abstract/document/9568708/)
 - **Sukun Tian**, Miaohui Wang, Haifeng Ma\*, Pan Huang, Ning Dai, Yuchun Sun\*, Jianjun Meng. [Efficient tooth gingival margin line reconstruction via adversarial learning. Biomedical Signal Processing and Control, 2022, 78: 103954.](https://www.sciencedirect.com/science/article/pii/S1746809422004530)
 - **Sukun Tian**, Pan Huang, Haifeng Ma\*, Jilai Wang, Xiaoli Zhou, Silu Zhang, Jinhua Zhou, Renkai Huang, Yangmin Li. [CASDD: Automatic surface defect detection using a complementary adversarial network. IEEE Sensors Journal, 2022, 22(20): 19583–19595. ](https://ieeexplore.ieee.org/abstract/document/9875035/)
@@ -134,7 +138,9 @@ By training AI models on vast amounts of annotated medical image data, these sys
 - 杨俊铄, 戴宁*, **田素坤**, 俞青, 程筱胜. [利用三维深度神经网络提取个性化牙弓线. 计算机辅助设计与图形学学报, 2022, 34 (5): 811-820.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10039775&AN=158700959&h=LXpCu6oP9%2BS%2FjT6tCM8jkE6Mmt5albjyiFcv4vEy0hl%2BccZ0D8YrXnsCH2mIUID4AMBG9GMFFcXap0ejanjHdg%3D%3D&crl=c)
 - 郭闯, 戴宁\*, **田素坤**, 孙玉春, 俞青, 刘浩, 程筱胜. [高分辨率深度生成网络驱动缺失牙体形态设计. 中国图象图形学报, 2020, 25 (10): 2249-2258. ( CCF-B类重点北大核心). ](http://www.cjig.cn/jig/article/html/20201026)
 
-## **2021**
+
+<h2 style="font-size: 20px;">2021</h2>
+
 - **Sukun Tian**, Miaohui Wang, Fulai Yuan, Ning Dai\*, Yuchun Sun\*, Wuyuan Xie\*, Jing Qin. [Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427.](https://ieeexplore.ieee.org/abstract/document/9422832/)
 - Haifeng Ma, Weixiang Liu, Yangmin Li, Zhanqiang Liu, **Sukun Tian\***. [Saturated adaptive barrier sliding mode control with state-dependent uncertainty limit. IET Control Theory & Applications, 2021, 15(13): 1762-1768.](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cth2.12157)
 - Chao Liu, Haifeng Ma\*, **Sukun Tian**, Yangmin Li. [Adaptive barrier sliding-mode control considering state-dependent uncertainty. IEEE Transactions on Circuits and Systems II: Express Briefs, 2021, 68(10): 3301-3305. ](https://ieeexplore.ieee.org/abstract/document/9382017/)
@@ -143,14 +149,17 @@ By training AI models on vast amounts of annotated medical image data, these sys
 - Renkai Huang, Chunrong Pan, **Sukun Tian\***. [Design optimization of support structures based on numerical simulation of the temperature fields in selective laser melting. 2021 IEEE International Conference on Networking, Sensing and Control, 2021, 1: 1-5. ](https://ieeexplore.ieee.org/abstract/document/9702179/)
 - **田素坤**, 戴宁\*, 袁福来, 孙玉春, 俞青, 程筱胜. [基于生成对抗网络的缺失牙体功能性咬合面形态设计方法. 中国机械工程, 2021, 32(3): 331-340. ](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1004132X&AN=149083731&h=rcq2Kt%2Byw7dh3cmVyAt48P4FJdXtlUvU1K7JRoKWuCj76hqGELQXzejjt70yLw7EhZiiYAx3RLNq30%2BsB73RBA%3D%3D&crl=c)
 
-## **2020**
+
+<h2 style="font-size: 20px;">2020</h2>
+
 - **Sukun Tian**, Ning Dai\*, Linlin Li, Weiwei Li, Yuchun Sun\*, [Xiaosheng Cheng. Three-dimensional mandibular motion trajectory-tracking system based on BP neural network. Mathematical Biosciences and Engineering, 2020, 17(5): 5709-5726.](http://www.aimspress.com/fileOther/PDF/MBE/MBE-17-05-307.pdf)
 - Fulai Yuan\#, Ning Dai\#, Sukun Tian\#,\*, Bei Zhang, Yuchun Sun\*, Qing Yu, Hao Liu. [Personalized design technique for the dental occlusal surface based on conditional generative adversarial networks. International Journal for Numerical Methods in Biomedical Engineering, 2020, 36(5): e3321.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3321)
 - **田素坤**, 戴宁\*, 袁福来, 张贝, 俞青, 程筱胜. [多级层次三维卷积神经网络的牙颌模型分割与识别技术. 计算机辅助设计与图形学学报, 2020, 32(8): 1218-1227.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10039775&AN=145468990&h=gP5xRgsOKwSE8ZmHfe0AxMBO8yH0CbJM%2FJnEs83oqjiv2MzkLpGcxxog9OVf9bTyZLGfyAN5NmL5RoqFwkqEug%3D%3D&crl=c)
 - Linlin Li, Yuchun Sun\*, Yong Wang, Weiwei Li, Ning Dai, **Sukun Tian**, Haihua Cui. [Accuracy of a novel virtual articulator for recording three-dimensional dentition. International Journal of Prosthodontics, 2020, 33(4): 441-451.](https://ss.bjmu.edu.cn/Sites/Uploaded/File/2021/04/096375357635365546709905338.pdf)
 - Jinyou Chen\*, **Sukun Tian**. [Equivalent Mechanical Model for Conducting Polypyrrole Actuator. Journal of Physics: Conference Series. IOP Publishing, 2020, 1605(1): 012095.](https://iopscience.iop.org/article/10.1088/1742-6596/1605/1/012095/meta)
 
-## **2019**
+<h2 style="font-size: 20px;">2019</h2>
+
 - **Sukun Tian**, Ning Dai\*, Xiaosheng Cheng, Linlin Li, Yuchun Sun\*, Haihua Cui. [Relative trajectory-driven virtual dynamic occlusal adjustment for dental restorations. Medical & Biological Engineering & Computing, 2019, 57(1): 59-70.](https://link.springer.com/article/10.1007/s11517-018-1867-3)
 - **Sukun Tian**, Ning Dai\*, Bei Zhang, Fulai Yuan, Qing Yu, Xiaosheng Cheng. [Automatic classification and segmentation of teeth on 3D dental model using hierarchical deep learning networks. IEEE Access, 2019, 7: 84817-84828.](https://ieeexplore.ieee.org/abstract/document/8743393/)
 - Bei Zhang, Ning Dai\*, **Sukun Tian**, Fulai Yuan, Qing Yu. [The extraction method of tooth preparation margin line based on S-Octree CNN. International Journal for Numerical Methods in Biomedical Engineering, 2019, 35(10): e3241.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3241)
