@@ -196,7 +196,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <!-- # Patents -->
 <h1 style="color: #3b5998; font-size: 24px;">Patents</h1>
 
-<div class='anchor' id='patents' style="text-align: justify; font-size: 20px;">
+<div class='anchor' id='patents' style=" ont-size: 20px; text-align: justify;">
     <ol>
         <li>马海峰, <strong>田素坤</strong>, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）</li>
         <li>陈金友, 胡巍, 廖金雄, <strong>田素坤</strong>. 一种柔性仿生机械抓取装置: 中国, 授权号：ZL202010909342.0.</li>
