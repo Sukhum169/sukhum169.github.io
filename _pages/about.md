@@ -16,14 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<!-- # Biography -->
+<!-- Biography标题的颜色（3b5998）和字体大小(24px) -->
 <h1 style="color: #3b5998; font-size: 24px;">Biography</h1>
 
 <span class='anchor' id='biography' >
-
+<!-- ####################################################################################################################################################### -->
 <!-- &emsp;&emsp; 用于增加两个缩进-->
-<!-- 换行语法<p>这是第一行<br>这是第二行</p> -->
-
+<!-- 换行语法 <p> 这是第一行 <br> 这是第二行 </p> -->
+<!-- 增加文字的链接这里使用HTML语法:<a href="要增加的链接">要增加的文字</a> -->
+<!-- ####################################################################################################################################################### -->
 <p style="font-size: 20px; text-align: justify;">&emsp;&emsp;<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5146.html">Sukun Tian</a>  received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2020, and Post-Doctoral Fellow in School of Mechanical Engineering, Shandong University, Jinan, China, in 2023.  
 <br>&emsp;&emsp;He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from Peking University School and Hospital of Stomatology. Dr. Tian has authored or co-authored over 40 peer-reviewed papers in journals and conferences (e.g., IEEE TMI/ JBHI/ TIM, Mater. Design., AAAI). His current research interests cover a wide range of topics related with biomedical engineering, medical image analysis, intelligent manufacturing, artificial intelligence (AI) techniques in healthcare and medicine applications.
 <br>&emsp;&emsp;田素坤，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。主要从事医学人工智能诊断与仿生设计智造技术等研究。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者。
@@ -37,7 +38,10 @@ redirect_from:
 <h1 style="color: #3b5998; font-size: 24px;">News</h1>
 
 <span class='anchor' id='news'>
-
+<!-- ####################################################################################################################################################### -->
+<!-- overflow用于确定显示内容是否溢出，overflow: auto;用于自动滚动 -->
+<!-- 文字加粗语法：<strong>要加粗的文字</strong> -->
+<!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
       <li>[2024.04] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
@@ -58,13 +62,19 @@ redirect_from:
 
 <!-- # Research Interests -->
 <h1 style="color: #3b5998; font-size: 24px;">Research Interests</h1>
-
 <span class='anchor' id='interests' >
-
 <div class='paper-box'><div class='paper-box-image'>
+
+<!-- ####################################################################################################################################################### -->
+<!-- <img src='images/文件名字.png' alt="sym" width="150%"> -->
+<!-- 增加左侧图片，以及设置图片替换字体 alt="替换的" width=图片宽度，由于本文使用的图片窄，因此设置为150% -->
+<!-- ####################################################################################################################################################### -->
 <div><img src='images/方向1.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
+<!-- ####################################################################################################################################################### -->
+<!-- 增加右侧文字, 此处使用了markdown语法，[标题](对应的链接) ^^，注意后面增加两个空格（此处^代替）来换行-->
+<!-- ####################################################################################################################################################### -->
 [AI-aided Intelligent Extraction of Dental Features](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)  
 AI-aided teeth feature intelligent extraction is an innovative research integrating artificial intelligence technology with the dental field. Its objective is to utilize computer vision and machine learning algorithms to automatically identify and extract key features from dental images, such as tooth morphology, position, and spacing. This facilitates rapid and accurate assistance for dental diagnosis and treatment, promoting the intelligent and precise development of dental healthcare.
 
@@ -107,6 +117,10 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <h2 style="font-size: 20px;">2024</h2>
 <div style="font-size: 20px; text-align: justify;">
+<!-- ####################################################################################################################################################### -->
+<!-- ul（unordered list）为无序列表，li为列表项（list） -->
+<!-- 要增加列表项，格式为<li>要增加的文字</li> -->
+<!-- ####################################################################################################################################################### -->
   <ul>
     <li>Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, Luca Fiorenza, Hu Chen*, <strong>Sukun Tian*</strong>, Yuchun Sun*, <a href="https://www.sciencedirect.com/science/article/pii/S0010482524006346">Efficient complete denture metal base design via a dental feature-driven segmentation network. Computers in Biology and Medicine, 2024, 175: 108550.</a></li>
     <li>Hongyan Wang, Hu Chen, <strong>Sukun Tian</strong>, Yuchun Sun, Feng Wu, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jerd.13240">Quantitative evaluation of the proximal contact area gap change characterization under intercuspal occlusion by intraoral 3D scanning: Food impaction with tight proximal contact. Journal of Esthetic and Restorative Dentistry, 2024, Doi.org/10.1111/jerd.13240.</a></li>
@@ -180,20 +194,6 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 
 
-<!-- <span class='anchor' id='patents' style="text-align: justify; font-size: 20px;"
-
-# Patents
-1.	马海峰, **田素坤**, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）
-2.	陈金友, 胡巍, 廖金雄, **田素坤**. 一种柔性仿生机械抓取装置: 中国, 授权号：ZL202010909342.0.
-3.	**田素坤**，孙玉春，周永胜，翟文茹. 基于分层特征级联融合策略的缺失牙形态重建方法及系统: 中国, 申请号：CN202310439858.7.
-4.	马海峰, **田素坤**, 刘战强, 周金华, 张思路, 宋清华, 刘兆军. 一种基于对抗学习网络的带钢表面缺陷检测方法及系统: 中国, 申请号：CN 202210885378.9. （导师第一）
-5.	周金华, 马海峰, 迟永辉, **田素坤**. 一种变流量气体混合引射装置、燃料电池系统及方法: 中国, 申请号：CN202210044379.0.
-6.	马海峰, 周金华, 陈杰, **田素坤**, 刘战强, 宋清华. 一种用于磨削加工的柔性夹持机构及磨削加工装置: 中国, 授权号：ZL202210288373.8.
-7.	孙玉春;周永胜;李伟伟;陈虎;**田素坤**;翟文茹. 一种颌位关系的数字测定方法与系统: 中国, 申请号：CN202310153271.X. 申请日期：2023-02-17
-8.	孙玉春;周永胜;**田素坤**;李骋;沈妍汝;唐宝;张晓辉;翟文茹. 一次性极薄牙贴面的制作方法. 申请(专利)号：CN202310250819.2. 申请日：2023-03-15
-9.	孙玉春;周永胜;**田素坤**;柯怡芳;江泳;范宝林;翟文茹. 医用照明装置、手术床、治疗椅,及照明控制器、方法和设备. 申请(专利)号：CN202311152946.5. 申请日：2023-09-07 -->
-
-<!-- # Patents -->
 <h1 style="color: #3b5998; font-size: 24px;">Patents</h1>
 
 <span class='anchor' id='patents'>
@@ -212,15 +212,10 @@ By training AI models on vast amounts of annotated medical image data, these sys
 </div>
 
 
-<!-- # Honors and Awards -->
+
 <h1 style="color: #3b5998; font-size: 24px;">Honors and Awards</h1>
 
-<!-- <span class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
 
-- Gold Award 48th Geneva International Exhibition of Inventions 第48届日内瓦国家发明展金奖
-- National Scholarship for Graduate Students 研究生国家奖学金
-- First Prize, East China Division of the Chinese Graduate Electronic Design Competition 中国研究生电子设计竞赛华东赛区一等奖
-- First Prize, Outstanding Paper at the Hunan Province Graduate Innovation Forum 湖南省研究生创新论坛优秀论文一等奖 -->
 <div class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
     <ul>
         <li>Gold Award 48th Geneva International Exhibition of Inventions 第48届日内瓦国家发明展金奖</li>
@@ -251,7 +246,9 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <h1 style="color: #3b5998; font-size: 24px;">Services</h1>
 
 <span class='anchor' id='services'>
-
+<!-- ####################################################################################################################################################### -->
+<!-- 倾斜字体语法: <em>要倾斜的文本</em> -->
+<!-- ####################################################################################################################################################### -->
 <div style="font-size: 20px; text-align: justify;">
  <ul>
     <li>Long-term reviewer for journals such as <em>Comput. Biol. Med.</em> (JCR Q1, IF: 6.698), <em>Int. J. Numer. Methods Biomed. Eng.</em> (JCR Q2, IF: 2.648), <em>Sci. Rep.</em>(JCR Q2, IF: 4.996), <em>IEEE Access</em> (JCR Q2, IF: 3.476), etc.</li>
