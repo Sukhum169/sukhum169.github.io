@@ -251,7 +251,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <!-- ####################################################################################################################################################### -->
 <div style="font-size: 20px; text-align: justify;">
  <ul>
-    <li>Long-term reviewer for journals such as <em>Comput. Biol. Med.</em> (JCR Q1, IF: 6.698), <em>Int. J. Numer. Methods Biomed. Eng.</em> (JCR Q2, IF: 2.648), <em>Sci. Rep.</em>(JCR Q2, IF: 4.996), <em>IEEE Access</em> (JCR Q2, IF: 3.476), etc.</li>
+    <li>Long-term reviewer for journals such as <em>Comput. Biol. Med.</em> , <em>Int. J. Numer. Methods Biomed. Eng.</em> , <em>Sci. Rep.</em>, <em>IEEE Access</em>, etc.</li>
     <li>Distinguished Expert Consultant for the Dental Equipment and Materials Professional Committee of the China Medical Device Industry Association.</li>
     <li>Guest Editor for the Special Issue "Intelligent Point Cloud Processing, Sensing and Understanding" on the international journal <em>Sensors</em> (ISSN 1424-8220, Impact Factor: 3.847).</li>
     <li>Guest Editor for Special Session 4 - "Artificial Intelligence for Medical Image Processing" at the <em>2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2023)</em>.</li>
