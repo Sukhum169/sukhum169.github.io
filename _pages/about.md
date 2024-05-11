@@ -218,10 +218,10 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <div class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
     <ul>
-        <li>Gold Award 48th Geneva International Exhibition of Inventions 第48届日内瓦国家发明展金奖</li>
-        <li>National Scholarship for Graduate Students 研究生国家奖学金</li>
-        <li>First Prize, East China Division of the Chinese Graduate Electronic Design Competition 中国研究生电子设计竞赛华东赛区一等奖</li>
-        <li>First Prize, Outstanding Paper at the Hunan Province Graduate Innovation Forum 湖南省研究生创新论坛优秀论文一等奖</li>
+        <li>2023，Gold Award 48th Geneva International Exhibition of Inventions 第48届日内瓦国家发明展-金奖（4/13）</li>
+        <li>2018，National Scholarship for Graduate Students 研究生国家奖学金</li>
+        <li>2018，First Prize, East China Division of the Chinese Graduate Electronic Design Competition 中国研究生电子设计竞赛华东赛区一等奖</li>
+        <li>2014，First Prize, Outstanding Paper at the Hunan Province Graduate Innovation Forum 湖南省研究生创新论坛优秀论文一等奖</li>
     </ul>
 </div>
 
