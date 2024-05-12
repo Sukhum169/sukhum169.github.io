@@ -44,7 +44,7 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
-      <li>[2024.04] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
+      <li>[2024.04.28] <strong>New !!!</strong> One paper has been accepted by <em>Computers in Biology and Medicine</em>.  </li>
       <li>[2024.03] <strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai, Yuchun Sun*, Wuyuan Xie, Jing Qin. Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427. (JCR Q1-Top, IF: 11.037).  </li>
       <li>[2024.02] <strong>Sukun Tian</strong>,, Miaohui Wang, Ning Dai, Haifeng Ma, Linlin Li, Luca Fiorenza, Yuchun Sun*, Yangmin Li. DCPR-GAN: Dental crown prosthesis restoration using two-stage generative adversarial networks. IEEE Journal of Biomedical and Health Informatics, 2022, 26(1): 151-160. (JCR Q1-Top, IF: 7.021).</li>
       <li>[2024.00] <strong>Sukun Tian</strong>,, Pan Huang, Haifeng Ma, Jilai Wang, Xiaoli Zhou, Silu Zhang, Jinhua Zhou, Renkai Huang, Yangmin Li. CASDD: Automatic surface defect detection using a complementary adversarial network. IEEE Sensors Journal, 2022, 22(20): 19583–19595. (JCR Q1-Top, IF: 4.325).  </li>
@@ -222,7 +222,6 @@ By training AI models on vast amounts of annotated medical image data, these sys
         <li>2023，第48届日内瓦国家发明展-金奖（4/13）</li>
         <li>2022，南京航空航天大学优秀博士学位论文</li>
         <li>2019，中国研究生人工智能创新大赛“百强团队”</li>
-        <li>2022，南京航空航天大学优秀博士学位论文</li>
         <li>2018，中国研究生电子设计竞赛华东赛区一等奖</li>
         <li>2015，研究生国家奖学金</li>
         <li>2014，湖南省研究生创新论坛优秀论文一等奖</li>
