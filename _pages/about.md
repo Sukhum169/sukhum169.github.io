@@ -44,12 +44,13 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
-      <li>[2024.04.28] <strong>New !!!</strong> One paper has been accepted by <em>Computers in Biology and Medicine</em>.  </li>
-      <li>[2024.04.21] <strong>New !!!</strong> 课题组荣获“第49届日内瓦国家发明展-金奖”.  </li>
-      <li>[2024.02.29] <strong>New !!!</strong> One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>.</li>
-      <li>[2024.02.27] One paper has been accepted by <em>Information Fusion</em>.  </li>
-      <li>[2023.10.09]One paper has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em>.  </li>
-      <li>[2024.00]<strong>Sukun Tian</strong>,, Ning Dai, Linlin Li, Weiwei Li, Yuchun Sun*, Xiaosheng Cheng. Three-dimensional mandibular motion trajectory-tracking system based on BP neural network. Mathematical Biosciences and Engineering, 2020, 17(5): 5709-5726. (JCR Q3, IF: 2.194). </li>
+      <li>[2024.04.28]  <strong>New !!!</strong> One paper has been accepted by <em>Computers in Biology and Medicine</em>.  </li>
+      <li>[2024.04.21]  <strong>New !!!</strong> 课题组荣获 “第49届日内瓦国家发明展-金奖”.  </li>
+      <li>[2024.02.29]  <strong>New !!!</strong> One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>.</li>
+      <li>[2024.02.27]  One paper has been accepted by <em>Information Fusion</em>.  </li>
+      <li>[2023.12.06]  成功获批国家级项目 “国家重点研发计划项目”，本人作为课题一的负责人（主持）.  </li>
+      <li>[2023.11.10]  成功获批省级项目 “北京市自然科学基金-海淀原始创新联合基金”.  </li>
+      <li>[2023.10.09]  One paper has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em>. </li>
       <li>[2024.00]<strong>Sukun Tian</strong>,, Renkai Huang, Zhenyang Li, Luca Fiorenza, Ning Dai, Yuchun Sun, Haifeng Ma. A dual-discriminator adversarial learning approach for dental occlusal surface reconstruction. Journal of Healthcare Engineering, 2022, Article ID: 1933617. (JCR Q2, IF: 3.822).   </li>
       <li>[2024.00]<strong>Sukun Tian</strong>,, Ning Dai, Bei Zhang, Fulai Yuan, Qing Yu, Xiaosheng Cheng. Automatic classification and segmentation of teeth on 3D dental model using hierarchical deep learning networks. IEEE Access, 2019, 7: 84817-84828. (JCR Q2, IF: 3.476).</li>
       <li>[2024.00]<strong>Sukun Tian</strong>,, Ning Dai, Bei Zhang, Fulai Yuan, Qing Yu, Xiaosheng Cheng. Automatic classification and segmentation of teeth on 3D dental model using hierarchical deep learning networks. IEEE Access, 2019, 7: 84817-84828. (JCR Q2, IF: 3.476).</li>
@@ -237,7 +238,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <div class='anchor' id='projects' style="text-align: justify; font-size: 20px;">
  <ul> 
-  <li>[12/2023-12/2026] 国家重点研发计划课题（2023YFB4605401），课题负责人，主持</li>
+  <li>[12/2023-12/2026] 国家重点研发计划课题（2023YFB4605401），主持</li>
   <li>[11/2023-11/2026] 北京市自然科学基金-海淀原始创新联合基金（L232145），主持</li>
   <li>[01/2022-12/2024] 国家自然科学基金青年项目（52105265），主持</li>
 </ul>
