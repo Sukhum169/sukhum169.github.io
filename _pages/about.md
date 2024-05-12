@@ -56,7 +56,6 @@ redirect_from:
       <li>[2022.08.20]  成功获批国家级项目 “国家自然科学基金青年项目”（主持）.   </li>
       <li>[2022.05.06]  荣获 “南京航空航天大学优秀博士学位论文”.   </li>
       <li>[2020.12.20]  入站：山东大学机械工程学院 重点资助类博士后.</li>
-      <li>[2024.00]<strong>Sukun Tian</strong>,, Ning Dai, Bei Zhang, Fulai Yuan, Qing Yu, Xiaosheng Cheng. Automatic classification and segmentation of teeth on 3D dental model using hierarchical deep learning networks. IEEE Access, 2019, 7: 84817-84828. (JCR Q2, IF: 3.476).</li>
   </ul>
 
 </div>
