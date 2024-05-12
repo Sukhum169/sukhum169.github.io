@@ -55,6 +55,8 @@ redirect_from:
       <li>[2023.04.28]  课题组荣获 “第48届日内瓦国家发明展-金奖”（4/13）.   </li>
       <li>[2022.08.20]  成功获批国家级项目 “国家自然科学基金青年项目”（主持）.   </li>
       <li>[2022.05.06]  荣获 “南京航空航天大学优秀博士学位论文”.   </li>
+      <li>[2021.10.06]  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>.   </li>
+      <li>[2021.04.29]  One paper has been accepted by <em>IEEE Transactions on Medical Imaging</em>.   </li>
       <li>[2020.12.20]  入站：山东大学机械工程学院 重点资助类博士后.</li>
   </ul>
 
