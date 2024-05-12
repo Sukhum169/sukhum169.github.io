@@ -49,7 +49,7 @@ redirect_from:
       <li>[2024.02.29]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>.</li>
       <li>[2024.02.27]  One paper has been accepted by <em>Information Fusion</em>.  </li>
       <li>[2023.12.06]  成功获批国家级项目 “国家重点研发计划项目”，本人作为课题一的负责人（主持）.  </li>
-      <li>[2023.11.10]  成功获批省级项目 “北京市自然科学基金-海淀原始创新联合基金”.  </li>
+      <li>[2023.11.10]  成功获批省级项目 “北京市自然科学基金-海淀原始创新联合基金”（主持）.  </li>
       <li>[2023.10.09]  One paper has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em>. </li>
       <li>[2024.00]<strong>Sukun Tian</strong>,, Renkai Huang, Zhenyang Li, Luca Fiorenza, Ning Dai, Yuchun Sun, Haifeng Ma. A dual-discriminator adversarial learning approach for dental occlusal surface reconstruction. Journal of Healthcare Engineering, 2022, Article ID: 1933617. (JCR Q2, IF: 3.822).   </li>
       <li>[2024.00]<strong>Sukun Tian</strong>,, Ning Dai, Bei Zhang, Fulai Yuan, Qing Yu, Xiaosheng Cheng. Automatic classification and segmentation of teeth on 3D dental model using hierarchical deep learning networks. IEEE Access, 2019, 7: 84817-84828. (JCR Q2, IF: 3.476).</li>
