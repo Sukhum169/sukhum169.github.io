@@ -44,9 +44,9 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
-      <li>[2024.04.28]  <strong>New !!!</strong> One paper has been accepted by <em>Computers in Biology and Medicine</em>.  </li>
-      <li>[2024.04.21]  <strong>New !!!</strong> 课题组荣获 “第49届日内瓦国家发明展-金奖”.  </li>
-      <li>[2024.02.29]  <strong>New !!!</strong> One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>.</li>
+      <li>[2024.04.28]  <strong>New !!!</strong>  One paper has been accepted by <em>Computers in Biology and Medicine</em>.  </li>
+      <li>[2024.04.21]  <strong>New !!!</strong>  课题组荣获 “第49届日内瓦国家发明展-金奖”.  </li>
+      <li>[2024.02.29]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>.</li>
       <li>[2024.02.27]  One paper has been accepted by <em>Information Fusion</em>.  </li>
       <li>[2023.12.06]  成功获批国家级项目 “国家重点研发计划项目”，本人作为课题一的负责人（主持）.  </li>
       <li>[2023.11.10]  成功获批省级项目 “北京市自然科学基金-海淀原始创新联合基金”.  </li>
