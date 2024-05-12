@@ -81,7 +81,7 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <!-- 增加右侧文字, 此处使用了markdown语法，[标题](对应的链接) ^^，注意后面增加两个空格（此处^代替）来换行-->
 <!-- ####################################################################################################################################################### -->
-[AI-aided Dental Feature Intelligent Extraction of](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)  
+[AI-aided Medical Feature Intelligent Extraction of](https://www.sciencedirect.com/science/article/abs/pii/S1746809422004530)  
 AI-aided teeth feature intelligent extraction is an innovative research integrating artificial intelligence technology with the dental field. Its objective is to utilize computer vision and machine learning algorithms to automatically identify and extract key features from dental images, such as tooth morphology, position, and spacing. This facilitates rapid and accurate assistance for dental diagnosis and treatment, promoting the intelligent and precise development of dental healthcare.
 
 </div>
