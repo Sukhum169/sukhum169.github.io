@@ -263,8 +263,8 @@ By training AI models on vast amounts of annotated medical image data, these sys
     <li>Distinguished Expert Consultant for the Dental Equipment and Materials Professional Committee of the China Medical Device Industry Association.</li>
     <li>Guest Editor for the Special Issue "Intelligent Point Cloud Processing, Sensing and Understanding" on the international journal <em>Sensors</em> (ISSN 1424-8220, Impact Factor: 3.847).</li>
     <li>Guest Editor for Special Session 4 - "Artificial Intelligence for Medical Image Processing" at the <em>2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2023)</em>.</li>
-    <li>人民日报报道：从高职生到博士生导师！这是一个15年的追梦故事.<a href="https://mp.weixin.qq.com/s/gmGkEnNusRKBGghanMVTVA"></li>
-    <li>时代楷模发布厅报道: 15年！从高职生到博士生导师，他做到了.<a href="https://mp.weixin.qq.com/s/1pfhv3vz7Lo0TCk2q2_Sag"></li>
+    <li><strong>人民日报报道</strong>：从高职生到博士生导师！这是一个15年的追梦故事.<a href="https://mp.weixin.qq.com/s/gmGkEnNusRKBGghanMVTVA"></li>
+    <li><strong>时代楷模发布厅报道</strong>: 15年！从高职生到博士生导师，他做到了.<a href="https://mp.weixin.qq.com/s/1pfhv3vz7Lo0TCk2q2_Sag"></li>
     
   </ul>
 </div>
