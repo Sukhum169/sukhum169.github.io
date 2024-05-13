@@ -262,7 +262,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <!-- ####################################################################################################################################################### -->
 <div style="font-size: 20px; text-align: justify;">
  <ul>
-    <li><strong>Paper Reviewer:</strong> <em>IEEE Transactions on Medical Imaging</em> , <em>Computers in Biology and Medicine</em> , <em>IEEE Journal of Biomedical and Health Informatics</em>, <em>Engineering Applications of Artificial Intelligence</em>, etc.</li>
+    <li><strong>Paper Reviewer:</strong> <em>IEEE Transactions on Medical Imaging</em> , <em>Computers in Biology and Medicine</em> , <em>IEEE Journal of Biomedical and Health Informatics</em>, <em>Engineering Applications of Artificial Intelligence</em>, <em>Biomedical Signal Processing and Control</em> <em>etc</em>.</li>
     <li>中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问.</li>
     <li>山东省科学养生协会创新融合成果转化专业委员会常委.</li>
     <li><strong>Guest Editor：</strong> "<a href="https://www.mdpi.com/journal/sensors/special_issues/ZW695MGH36">Intelligent Point Cloud Processing, Sensing and Understanding (Volume II)</a>" on the international journal <em>Sensors</em>.</li>
