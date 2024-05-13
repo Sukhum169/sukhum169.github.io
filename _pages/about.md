@@ -268,8 +268,10 @@ By training AI models on vast amounts of annotated medical image data, these sys
     <li><strong>Guest Editor：</strong> "<a href="https://www.mdpi.com/journal/sensors/special_issues/ZW695MGH36">Intelligent Point Cloud Processing, Sensing and Understanding (Volume II)</a>" on the international journal <em>Sensors</em>.</li>
     <li><strong>Guest Editor：</strong> "<a href="https://www.mdpi.com/journal/sensors/special_issues/IX18KRFUQ1">Intelligent Point Cloud Processing, Sensing and Understanding</a>" on the international journal <em>Sensors</em>.</li>
     <li><strong>Guest Editor：</strong>  "Artificial Intelligence for Medical Image Processing" at the <em>2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2023)</em>.</li>
-    <li><strong>人民日报报道</strong>：<a href="https://mp.weixin.qq.com/s/gmGkEnNusRKBGghanMVTVA">从高职生到博士生导师！这是一个15年的追梦故事</a>.</li>
-    <li><strong>时代楷模发布厅报道</strong>: <a href="https://mp.weixin.qq.com/s/1pfhv3vz7Lo0TCk2q2_Sag">15年！从高职生到博士生导师，他做到了</a>.</li>
+    <li><strong>《人民日报》报道</strong>：<a href="https://mp.weixin.qq.com/s/gmGkEnNusRKBGghanMVTVA">从高职生到博士生导师！这是一个15年的追梦故事</a>.</li>
+    <li><strong>《时代楷模发布厅》报道</strong>: <a href="https://mp.weixin.qq.com/s/1pfhv3vz7Lo0TCk2q2_Sag">15年！从高职生到博士生导师，他做到了</a>.</li>
+    <li><strong>《山东教育报》报道</strong>: <a href="http://www.sdjyb.com.cn/content/2023-11/06/032108.html">从高职生到博士生导师——记滨州职业学院毕业生田素坤</a>.</li>
+
     
   </ul>
 </div>
