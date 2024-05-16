@@ -244,9 +244,9 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <div class='anchor' id='projects' style="text-align: justify; font-size: 20px;">
  <ul> 
-  <li>[12/2023-12/2026] 国家重点研发计划课题（2023YFB4605401），主持</li>
-  <li>[11/2023-11/2026] 北京市自然科学基金-海淀原始创新联合基金（L232145），主持</li>
-  <li>[01/2022-12/2024] 国家自然科学基金青年项目（52105265），主持</li>
+  <li>国家自然科学基金青年项目（52105265），2022.01-2024.12，主持</li>
+  <li>国家重点研发计划课题（2023YFB4605401），2023.12-2026.12，主持</li>
+  <li>北京市自然科学基金-海淀原始创新联合基金（L232145），2023.11-2026.11，主持</li>
 </ul>
 </div>
 
