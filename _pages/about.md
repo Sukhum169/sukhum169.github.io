@@ -28,7 +28,7 @@ redirect_from:
 <p style="font-size: 20px; text-align: justify;">&emsp;&emsp;<a href="https://www.researchgate.net/profile/Sukun-Tian-tiansukun-2"><strong>Sukun Tian</strong></a>  received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2020, and Post-Doctoral Fellow in School of Mechanical Engineering, Shandong University, Jinan, China, in 2023. He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from Peking University School and Hospital of Stomatology. 
 <br>&emsp;&emsp;His current research interests cover a wide range of topics related with Biomedical Engineering, Medical Image Analysis, Intelligent Manufacturing, Artificial Intelligence (AI) techniques in healthcare and medicine applications.
 <br>&emsp;&emsp;<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5146.html"><strong>田素坤</strong></a>，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者；主持项目：国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；国内外刊物上发表论文40余篇（ESI高被引论文1篇）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48、49届日内瓦国家发明展-金奖等10余项。
-<br>&emsp;&emsp;<strong>主要研究方向：从事医学人工智能诊断与仿生设计智造技术</strong> 
+<br>&emsp;&emsp;<strong>主要研究方向：医学人工智能诊断与仿生设计智造技术</strong> 
 </p>
 
 
@@ -169,13 +169,13 @@ By training AI models on vast amounts of annotated medical image data, these sys
   <h2 style="font-size: 20px;">2021</h2>
 
   <ul>
-    <li><strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai*, Yuchun Sun*, Wuyuan Xie*, Jing Qin. <a href="https://ieeexplore.ieee.org/abstract/document/9422832/">Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. IEEE Transactions on Medical Imaging, 2021, 40(9): 2415-2427.</a></li>
-    <li>Haifeng Ma, Weixiang Liu, Yangmin Li, Zhanqiang Liu, <strong>Sukun Tian*</strong>. <a href="https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cth2.12157">Saturated adaptive barrier sliding mode control with state-dependent uncertainty limit. IET Control Theory & Applications, 2021, 15(13): 1762-1768.</a></li>
-    <li>Chao Liu, Haifeng Ma*, <strong>Sukun Tian</strong>, Yangmin Li. <a href="https://ieeexplore.ieee.org/abstract/document/9382017/">Adaptive barrier sliding-mode control considering state-dependent uncertainty. IEEE Transactions on Circuits and Systems II: Express Briefs, 2021, 68(10): 3301-3305. </a></li>
-    <li>Chao Liu, Yangmin Li, <strong>Sukun Tian</strong>, Haifeng Ma*. <a href="https://link.springer.com/article/10.1007/s12555-020-0940-5">Disturbance compensation based discrete-time sliding mode control with a reference trajectory generator. International Journal of Control, Automation and Systems. 2021, 19(X): 1-7.</a></li>
-    <li>Ganjun Xu, Ning Dai*, <strong>Sukun Tian</strong>. <a href="https://www.aimspress.com/aimspress-data/mbe/2021/6/PDF/mbe-18-06-351.pdf">Principal stress lines-based design method of lightweight and low vibration amplitude gear web. Mathematical Biosciences and Engineering, 2021, 18(6): 7060-7075.</a></li>
-    <li>Renkai Huang, Chunrong Pan, <strong>Sukun Tian*</strong>. <a href="https://ieeexplore.ieee.org/abstract/document/9702179/">Design optimization of support structures based on numerical simulation of the temperature fields in selective laser melting. 2021 IEEE International Conference on Networking, Sensing and Control, 2021, 1: 1-5. </a></li>
-    <li><strong>田素坤</strong>, 戴宁*, 袁福来, 孙玉春, 俞青, 程筱胜. <a href="https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1004132X&AN=149083731&h=rcq2Kt%2Byw7dh3cmVyAt48P4FJdXtlUvU1K7JRoKWuCj76hqGELQXzejjt70yLw7EhZiiYAx3RLNq30%2BsB73RBA%3D%3D&crl=c">基于生成对抗网络的缺失牙体功能性咬合面形态设计方法. 中国机械工程, 2021, 32(3): 331-340. </a></li>
+    <li><strong>Sukun Tian</strong>, Miaohui Wang, Fulai Yuan, Ning Dai*, Yuchun Sun*, Wuyuan Xie*, Jing Qin. <a href="https://ieeexplore.ieee.org/abstract/document/9422832/">Efficient computer-aided design of dental inlay restoration: A deep adversarial framework. </a> <em> IEEE Transactions on Medical Imaging</em>, 2021, 40(9): 2415-2427.</li>
+    <li>Haifeng Ma, Weixiang Liu, Yangmin Li, Zhanqiang Liu, <strong>Sukun Tian*</strong>. <a href="https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cth2.12157">Saturated adaptive barrier sliding mode control with state-dependent uncertainty limit. </a> <em> IET Control Theory & Applications</em>, 2021, 15(13): 1762-1768.</li>
+    <li>Chao Liu, Haifeng Ma*, <strong>Sukun Tian</strong>, Yangmin Li. <a href="https://ieeexplore.ieee.org/abstract/document/9382017/">Adaptive barrier sliding-mode control considering state-dependent uncertainty. </a> <em> IEEE Transactions on Circuits and Systems II: Express Briefs</em>, 2021, 68(10): 3301-3305. </li>
+    <li>Chao Liu, Yangmin Li, <strong>Sukun Tian</strong>, Haifeng Ma*. <a href="https://link.springer.com/article/10.1007/s12555-020-0940-5">Disturbance compensation based discrete-time sliding mode control with a reference trajectory generator.</a> <em> International Journal of Control, Automation and Systems</em>. 2021, 19(X): 1-7.</li>
+    <li>Ganjun Xu, Ning Dai*, <strong>Sukun Tian</strong>. <a href="https://www.aimspress.com/aimspress-data/mbe/2021/6/PDF/mbe-18-06-351.pdf">Principal stress lines-based design method of lightweight and low vibration amplitude gear web. </a> <em> Mathematical Biosciences and Engineering</em>, 2021, 18(6): 7060-7075.</li>
+    <li>Renkai Huang, Chunrong Pan, <strong>Sukun Tian*</strong>. <a href="https://ieeexplore.ieee.org/abstract/document/9702179/">Design optimization of support structures based on numerical simulation of the temperature fields in selective laser melting. </a> <em> 2021 IEEE International Conference on Networking, Sensing and Control</em>, 2021, 1: 1-5. </li>
+    <li><strong>田素坤</strong>, 戴宁*, 袁福来, 孙玉春, 俞青, 程筱胜. <a href="https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1004132X&AN=149083731&h=rcq2Kt%2Byw7dh3cmVyAt48P4FJdXtlUvU1K7JRoKWuCj76hqGELQXzejjt70yLw7EhZiiYAx3RLNq30%2BsB73RBA%3D%3D&crl=c">基于生成对抗网络的缺失牙体功能性咬合面形态设计方法.</a> <em>  中国机械工程</em>, 2021, 32(3): 331-340.</li>
   </ul>
 
 
@@ -207,10 +207,10 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <span class='anchor' id='patents'>
 <div style="text-align: justify; font-size: 20px;">
   <ul>
-    <li>马海峰, <strong>田素坤</strong>, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （导师第一）</li>
+    <li>马海峰, <strong>田素坤</strong>, 李振洋, 刘战强, 宋清华, 王兵, 蔡玉奎, 王磊. 深度生成网络辅助的功能性全冠修复体形态生成方法: 中国, 授权号：ZL202110649958.3. （博后导师第一）</li>
     <li>陈金友, 胡巍, 廖金雄, <strong>田素坤</strong>. 一种柔性仿生机械抓取装置: 中国, 授权号：ZL202010909342.0.</li>
     <li><strong>田素坤</strong>，孙玉春，周永胜，翟文茹. 基于分层特征级联融合策略的缺失牙形态重建方法及系统: 中国, 申请号：CN202310439858.7.</li>
-    <li>马海峰, <strong>田素坤</strong>, 刘战强, 周金华, 张思路, 宋清华, 刘兆军. 一种基于对抗学习网络的带钢表面缺陷检测方法及系统: 中国, 申请号：CN 202210885378.9. （导师第一）</li>
+    <li>马海峰, <strong>田素坤</strong>, 刘战强, 周金华, 张思路, 宋清华, 刘兆军. 一种基于对抗学习网络的带钢表面缺陷检测方法及系统: 中国, 申请号：CN 202210885378.9. （博后导师第一）</li>
     <li>周金华, 马海峰, 迟永辉, <strong>田素坤</strong>. 一种变流量气体混合引射装置、燃料电池系统及方法: 中国, 申请号：CN202210044379.0.</li>
     <li>马海峰, 周金华, 陈杰, <strong>田素坤</strong>, 刘战强, 宋清华. 一种用于磨削加工的柔性夹持机构及磨削加工装置: 中国, 授权号：ZL202210288373.8.</li>
     <li>孙玉春;周永胜;李伟伟;陈虎;<strong>田素坤</strong>;翟文茹. 一种颌位关系的数字测定方法与系统: 中国, 申请号：CN202310153271.X. 申请日期：2023-02-17</li>
