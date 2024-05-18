@@ -56,11 +56,12 @@ redirect_from:
       <li>[2023.07.09]  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>（Q1-TOP, IF: 7.7）.   </li>
       <li>[2023.05.01]  入职：北京大学口腔医（学）院·口腔医学数字化研究中心 助理教授/副研究员/博士研究生导师.   </li>
       <li>[2023.04.28]  课题组荣获 “第48届日内瓦国际发明展-金奖”（4/13）.   </li>
+      <li>[2022.08.23]  One paper has been accepted by <em>IEEE Transactions on Medical Imaging</em>（Q1-TOP, IF: 11.037）.   </li>
       <li>[2022.08.20]  成功获批国家级项目 “国家自然科学基金青年项目”（主持）.   </li>
       <li>[2022.07.01]  One paper has been accepted by <em>Biomedical Signal Processing and Control</em>.   </li>
       <li>[2022.05.06]  荣获 “南京航空航天大学优秀博士学位论文”.   </li>
       <li>[2021.10.06]  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>（Q1-TOP, IF: 7.7）.   </li>
-      <li>[2021.04.29]  One paper has been accepted by <em>IEEE Transactions on Medical Imaging</em>（Q1-TOP, IF: 11.037）.   </li>
+      <li>[2021.04.29]  One paper has been accepted by <em>IEEE Transactions on Medical Imaging</em>（Q1-TOP, IF: 10.048）.   </li>
       <li>[2020.12.20]  入站：山东大学机械工程学院 重点资助类博士后.</li>
   </ul>
 
