@@ -30,7 +30,7 @@ redirect_from:
 <br>&emsp;&emsp;<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5146.html"><strong>田素坤</strong></a>，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者；主持项目：国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；国内外刊物上发表论文40余篇（ESI高被引论文1篇）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48、49届日内瓦国家发明展-金奖等10余项。
 </p>
 
-<p style="font-size: 22px; text-align: justify;">&emsp;&emsp;<strong>研究方向：医学人工智能诊断与仿生设计智造技术</strong> 
+<p style="color: #3b5998; font-size: 22px; text-align: justify;">&emsp;&emsp;<strong>研究方向：医学人工智能诊断与仿生设计智造技术</strong> 
 </p>
 
 
