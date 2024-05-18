@@ -27,7 +27,7 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <p style="font-size: 20px; text-align: justify;">&emsp;&emsp;<a href="https://www.researchgate.net/profile/Sukun-Tian-tiansukun-2"><strong>Sukun Tian</strong></a>  received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2020, and Post-Doctoral Fellow in School of Mechanical Engineering, Shandong University, Jinan, China, in 2023. He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from Peking University School and Hospital of Stomatology. 
 <br>&emsp;&emsp;His current research interests cover a wide range of topics related with Biomedical Engineering, Medical Image Analysis, Intelligent Manufacturing, Artificial Intelligence (AI) techniques in healthcare and medicine applications.
-<br>&emsp;&emsp;<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5146.html"><strong>田素坤</strong></a>，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者；主持项目：国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；国内外刊物上发表论文40余篇（ESI高被引论文1篇）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48、49届日内瓦国家发明展-金奖等10余项。
+<br>&emsp;&emsp;<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5146.html"><strong>田素坤</strong></a>，工学博士（后），北京大学口腔医学院数字化研究中心副研究员、博士生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者；主持项目：国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等4项；国内外刊物上发表论文40余篇（ESI高被引论文1篇）；申请中国发明专利9项（授权4项）、软件著作权1项；荣获第48、49届日内瓦国际发明展-金奖等10余项。
 </p>
 
 <p style="color: #3b5998; font-size: 22px; text-align: justify;">&emsp;&emsp;<strong>研究方向：医学人工智能诊断与仿生设计智造技术</strong> 
@@ -47,7 +47,7 @@ redirect_from:
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
       <li>[2024.04.28]  <strong>New !!!</strong>  One paper has been accepted by <em>Computers in Biology and Medicine</em>（Q1-TOP, IF: 7.7）.  </li>
-      <li>[2024.04.21]  <strong>New !!!</strong>  课题组荣获 “第49届日内瓦国家发明展-金奖”（4/17）.  </li>
+      <li>[2024.04.21]  <strong>New !!!</strong>  课题组荣获 “第49届日内瓦国际发明展-金奖”（4/17）.  </li>
       <li>[2024.02.29]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>（Q1-TOP, IF: 7.7）.</li>
       <li>[2024.02.27]  One paper has been accepted by <em>Information Fusion</em>（Q1-TOP, IF: 18.6）.  </li>
       <li>[2023.12.06]  成功获批国家级项目 “国家重点研发计划项目”，本人作为课题一的负责人（主持）.  </li>
@@ -55,7 +55,7 @@ redirect_from:
       <li>[2023.10.09]  One paper has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em>（Q1-TOP, IF: 5.6）. </li>
       <li>[2023.07.09]  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>（Q1-TOP, IF: 7.7）.   </li>
       <li>[2023.05.01]  入职：北京大学口腔医（学）院·口腔医学数字化研究中心 助理教授/副研究员/博士研究生导师.   </li>
-      <li>[2023.04.28]  课题组荣获 “第48届日内瓦国家发明展-金奖”（4/13）.   </li>
+      <li>[2023.04.28]  课题组荣获 “第48届日内瓦国际发明展-金奖”（4/13）.   </li>
       <li>[2022.08.20]  成功获批国家级项目 “国家自然科学基金青年项目”（主持）.   </li>
       <li>[2022.07.01]  One paper has been accepted by <em>Biomedical Signal Processing and Control</em>.   </li>
       <li>[2022.05.06]  荣获 “南京航空航天大学优秀博士学位论文”.   </li>
@@ -229,8 +229,8 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <div class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
     <ul>
-        <li>2024，<a href="https://mp.weixin.qq.com/s/vhBjUYBnciM0VFAPPLr6iw">第49届日内瓦国家发明展-金奖</a>（4/17）</li>
-        <li>2023，<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5090.html">第48届日内瓦国家发明展-金奖</a>（4/13）</li>
+        <li>2024，<a href="https://mp.weixin.qq.com/s/vhBjUYBnciM0VFAPPLr6iw">第49届日内瓦国际发明展-金奖</a>（4/17）</li>
+        <li>2023，<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5090.html">第48届日内瓦国际发明展-金奖</a>（4/13）</li>
         <li>2022，南京航空航天大学优秀博士学位论文</li>
         <li>2019，中国研究生人工智能创新大赛“百强团队”</li>
         <li>2018，中国研究生电子设计竞赛华东赛区一等奖</li>
