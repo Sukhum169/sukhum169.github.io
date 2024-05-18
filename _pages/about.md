@@ -54,7 +54,7 @@ redirect_from:
       <li>[2023.11.10]  成功获批省级项目 “国家北京市自然科学基金-海淀原始创新联合基金”（主持）.  </li>
       <li>[2023.10.09]  One paper has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em>（Q1-TOP, IF: 5.6）. </li>
       <li>[2023.07.09]  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>（Q1-TOP, IF: 7.7）.   </li>
-      <li>[2023.05.01]  入职：北京大学口腔医（学）院·口腔医学数字化研究中心 助理教授/副研究员/博士研究生导师.   </li>
+      <li>[2023.05.01]  入职：北京大学口腔医学院·口腔医学数字化研究中心 助理教授/副研究员/博士生导师.   </li>
       <li>[2023.04.28]  课题组荣获 “第48届日内瓦国际发明展-金奖”（4/13）.   </li>
       <li>[2022.08.23]  One paper has been accepted by <em>IEEE Transactions on Medical Imaging</em>（Q1-TOP, IF: 11.037）.   </li>
       <li>[2022.08.20]  成功获批国家级项目 “国家自然科学基金青年项目”（主持）.   </li>
