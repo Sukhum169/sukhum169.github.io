@@ -80,7 +80,7 @@ redirect_from:
 <!-- <img src='images/文件名字.png' alt="sym" width="150%"> -->
 <!-- 增加左侧图片，以及设置图片替换字体 alt="替换的" width=图片宽度，由于本文使用的图片窄，因此设置为150% -->
 <!-- ####################################################################################################################################################### -->
-<div><img src='images/方向1.png' alt="sym" width="150%"></div></div>
+<div><img src='images/方向1.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 <!-- ####################################################################################################################################################### -->
@@ -95,7 +95,7 @@ AI-aided teeth feature intelligent extraction is an innovative research integrat
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/方向2.png' alt="sym" width="150%"></div></div>
+<img src='images/方向2.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Intelligent Design and Manufacturing](https://ieeexplore.ieee.org/abstract/document/9422832)  
@@ -107,7 +107,7 @@ It aims to leverage AI algorithms to optimize the design process of dental prost
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/方向3.png' alt="sym" width="150%"></div></div>
+<img src='images/方向3.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1" style="text-align: justify; font-size: 20px;">
 
 [AI-aided Medical Image Intelligent Diagnosis](https://ieeexplore.ieee.org/abstract/document/9868801)  
