@@ -73,10 +73,13 @@ redirect_from:
 
 <div class='anchor' id='Research Team' style="text-align: justify; font-size: 20px;">
  <ul> 
-  <li>Cheng Li (Ph.D.,2020.09-2024.06) AI-aided intelligent design</li>
-  <li>Tianxiang Li (Ph.D.,2024.09-) AI-aided intelligent design and manufacturing</li>
-  <li>北京市自然科学基金-海淀原始创新联合基金（L232145），2023.11-2026.11，主持</li>
-  <li>企业委托横向课题（PKUSSIIT2024031），2024.05-2025.05，主持</li>
+  <li> Cheng Li (Ph.D.student,2020.09-2024.06): AI-aided intelligent design</li>
+  <li> Yifang Ke (Ph.D.student,2020.09-): Clinical validation</li>
+  <li> Tianxiang Li (Ph.D.student,2024.09-): AI-aided intelligent design and manufacturing</li>
+  <li> Hongyan Wang(Ph.D.student,2024.09-): Clinical validation</li>
+  <li> Dongyao Jiang(M.Sc.student,2024.09-): Topology optimization</li>
+  <li> Shipeng Hu(Ph.D.candidate,2025.09-): AI-aided medical image intelligent diagnosis</li>
+  <li> Rui Deng(Ph.D.candidate,2025.09-): AI-aided medical image intelligent diagnosis</li>
 </ul>
 </div>
 
