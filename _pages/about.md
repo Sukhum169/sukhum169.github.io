@@ -73,8 +73,8 @@ redirect_from:
 
 <div class='anchor' id='Research Team' style="text-align: justify; font-size: 20px;">
  <ul> 
-  <li>Cheng Li (Ph.D.,2020-2024)</li>
-  <li>国家重点研发计划课题（2023YFB4605401），2023.12-2026.12，主持</li>
+  <li>Cheng Li (Ph.D.,2020.09-2024.06) AI-aided intelligent design</li>
+  <li>Tianxiang Li (Ph.D.,2024.09-) AI-aided intelligent design and manufacturing</li>
   <li>北京市自然科学基金-海淀原始创新联合基金（L232145），2023.11-2026.11，主持</li>
   <li>企业委托横向课题（PKUSSIIT2024031），2024.05-2025.05，主持</li>
 </ul>
