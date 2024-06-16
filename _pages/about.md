@@ -293,6 +293,9 @@ By training AI models on vast amounts of annotated medical image data, these sys
     <li><strong>Guest Editor：</strong>  "Artificial Intelligence for Medical Image Processing" at the <em>2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2023)</em>.</li>
     <li><strong>《人民日报》报道</strong>：<a href="https://mp.weixin.qq.com/s/gmGkEnNusRKBGghanMVTVA">从高职生到博士生导师！这是一个15年的追梦故事</a>.</li>
     <li><strong>《时代楷模发布厅》报道</strong>: <a href="https://mp.weixin.qq.com/s/1pfhv3vz7Lo0TCk2q2_Sag">15年！从高职生到博士生导师，他做到了</a>.</li>
+    <li><strong>《中国青年网》报道</strong>：<a href="https://news.youth.cn/jsxw/202310/t20231011_14840850.htm">从高职生到博士生导师！这是一个15年的追梦故事</a>.</li>
+    <li><strong>《光明网》报道</strong>：<a href="https://m.gmw.cn/2023-10/11/content_1303537894.htm">从高职生到博士生导师！这是一个15年的追梦故事</a>.</li>
+    <li><strong>《环球网》报道</strong>：<a href="https://3w.huanqiu.com/a/378ce6/4EtfWK2DCGw">从高职生到博士生导师！这是一个15年的追梦故事</a>.</li>
     <li><strong>《山东教育报》报道</strong>: <a href="http://www.sdjyb.com.cn/content/2023-11/06/032108.html">从高职生到博士生导师——记滨州职业学院毕业生田素坤</a>.</li>
 
     
