@@ -76,10 +76,10 @@ redirect_from:
   <li> Cheng Li (Ph.D.student, 2020.09-2024.06): AI-aided intelligent design</li>
   <li> Yifang Ke (Ph.D.student, 2020.09-): Clinical validation</li>
   <li> Tianxiang Li (Ph.D.student, 2024.09-): AI-aided intelligent design and manufacturing</li>
-  <li> Hongyan Wang(Ph.D.student, 2024.09-): Clinical validation</li>
-  <li> Dongyao Jiang(M.Sc.student, 2024.09-): Topology optimization</li>
-  <li> Shipeng Hu(Ph.D.candidate, 2025.09-): AI-aided medical image intelligent diagnosis</li>
-  <li> Rui Deng(Ph.D.candidate, 2025.09-): AI-aided medical image intelligent diagnosis</li>
+  <li> Hongyan Wang (Ph.D.student, 2024.09-): Clinical validation</li>
+  <li> Dongyao Jiang (M.Sc.student, 2024.09-): Topology optimization</li>
+  <li> Shipeng Hu (Ph.D.candidate, 2025.09-): AI-aided medical image intelligent diagnosis</li>
+  <li> Rui Deng (Ph.D.candidate, 2025.09-): AI-aided medical image intelligent diagnosis</li>
 </ul>
 </div>
 
