@@ -46,6 +46,7 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
+      <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>     
       <li>[2024.05.06]  <strong>New !!!</strong>  成功获批 “企业委托横向课题”（主持）.  </li>
       <li>[2024.04.28]  <strong>New !!!</strong>  One paper has been accepted by <em>Computers in Biology and Medicine</em>（Q1-TOP, IF: 7.7）.  </li>
       <li>[2024.04.21]  <strong>New !!!</strong>  课题组荣获 “第49届日内瓦国际发明展-金奖”（4/17）.  </li>
@@ -150,6 +151,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <!-- 要增加列表项，格式为<li>要增加的文字</li> -->
 <!-- ####################################################################################################################################################### -->
   <ul>
+    <li><strong>Sukun Tian</strong>, Haifeng Ma, Pan Huang, Xiang Wang, Tianxiang Li, Renkai Huang, <a href="https://www.sciencedirect.com/science/article/pii/S0952197624010455">RADDA-Net: Residual attention-based dual discriminator adversarial network for surface defect detection.</a> <em><strong>Engineering Applications of Artificial Intelligence</strong></em>, 2024, 136: 108887.</li>
     <li>Cheng Li, Yaming Jin, Yunhan Du, Kaiyuan Luo, <a href="https://www.monash.edu/discovery-institute/fiorenza-lab/members">Luca Fiorenza</a>, Hu Chen*, <strong>Sukun Tian*</strong>, Yuchun Sun*, <a href="https://www.sciencedirect.com/science/article/pii/S0010482524006346">Efficient complete denture metal base design via a dental feature-driven segmentation network.</a> <em><strong>Computers in Biology and Medicine</strong></em>, 2024, 175: 108550.</li>
     <li>Hongyan Wang, <a href="https://ss.bjmu.edu.cn/Html/Doctors/Main/Index_995.html">Hu Chen</a>, <strong>Sukun Tian</strong>, <a href="https://ss.bjmu.edu.cn/Html/News/Articles/2268.html">Yuchun Sun</a>, Feng Wu, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jerd.13240">Quantitative evaluation of the proximal contact area gap change characterization under intercuspal occlusion by intraoral 3D scanning: Food impaction with tight proximal contact.</a> <em> <strong>Journal of Esthetic and Restorative Dentistry</strong></em>, 2024, Doi.org/10.1111/jerd.13240.</li>
     <li>Pan Huang, Chentao Li, Peng He, Hualiang Xiao, Yifang Ping, Peng Feng, <strong>Sukun Tian</strong>, Hu Chen, Francesco Mercaldo, Antonella Santone, Hui-yuan Yeh, <a href="https://ira.lib.polyu.edu.hk/cris/rp/rp06349/profile.html">Jing Qin</a>, <a href="https://doi.org/10.1016/j.inffus.2024.102333">MamlFormer Priori-experience Guiding Transformer Network via Manifold Adversarial Multi modal Learning for Laryngeal Histopathological Grading.</a> <em> <strong>Information Fusion</strong></em>, 2024, 108: 102333.</li>
