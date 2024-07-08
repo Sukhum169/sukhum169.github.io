@@ -49,7 +49,7 @@ redirect_from:
       <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>     
       <li>[2024.05.30]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Bioprinting</em>（Q1, IF: 6.8）.  </li>
       <li>[2024.05.06]  <strong>New !!!</strong>  成功获批 “企业委托横向课题”（主持）.  </li>
-      <li>[2024.04.28]  <strong>New !!!</strong>  One paper has been accepted by <em>Computers in Biology and Medicine</em>（Q1-TOP, IF: 7.7）.  </li>
+      <li>[2024.04.28]  One paper has been accepted by <em>Computers in Biology and Medicine</em>（Q1-TOP, IF: 7.7）.  </li>
       <li>[2024.04.21]  课题组荣获 “第49届日内瓦国际发明展-金奖”（4/17）.  </li>
       <li>[2024.02.29]  One paper has been accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>（Q1-TOP, IF: 7.7）.</li>
       <li>[2024.02.27]  One paper has been accepted by <em>Information Fusion</em>（Q1-TOP, IF: 18.6）.  </li>
