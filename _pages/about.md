@@ -252,7 +252,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <div class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
     <ul>
-        <li>2024，中华口腔医学会科技奖 二等奖</a>（4/10）</li>
+        <li>2024，中华口腔医学会科技奖 二等奖（4/10）</li>
         <li>2024，<a href="https://mp.weixin.qq.com/s/vhBjUYBnciM0VFAPPLr6iw">第49届日内瓦国际发明展-金奖</a>（4/17）</li>
         <li>2023，<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5090.html">第48届日内瓦国际发明展-金奖</a>（4/13）</li>
         <li>2022，南京航空航天大学优秀博士学位论文</li>
