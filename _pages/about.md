@@ -46,7 +46,8 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
-      <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>     
+      <li>[2024.07.06]  <strong>New !!!</strong>  课题组荣获 “中华口腔医学会科技奖 二等奖”（4/10）.  </li>    
+      <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>      
       <li>[2024.05.30]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Bioprinting</em>（Q1, IF: 6.8）.  </li>
       <li>[2024.05.06]  <strong>New !!!</strong>  成功获批 “企业委托横向课题”（主持）.  </li>
       <li>[2024.04.28]  One paper has been accepted by <em>Computers in Biology and Medicine</em>（Q1-TOP, IF: 7.7）.  </li>
@@ -251,6 +252,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <div class='anchor' id='honors' style="text-align: justify; font-size: 20px;">
     <ul>
+        <li>2024，中华口腔医学会科技奖 二等奖</a>（4/10）</li>
         <li>2024，<a href="https://mp.weixin.qq.com/s/vhBjUYBnciM0VFAPPLr6iw">第49届日内瓦国际发明展-金奖</a>（4/17）</li>
         <li>2023，<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5090.html">第48届日内瓦国际发明展-金奖</a>（4/13）</li>
         <li>2022，南京航空航天大学优秀博士学位论文</li>
