@@ -84,7 +84,7 @@ redirect_from:
   <li> Dongyao Jiang (M.Sc.student, 2024.09-): Topology optimization</li>
   <li> Shipeng Hu (Ph.D.student, 2026.09-): AI-aided medical image intelligent diagnosis</li>
   <li> Rui Deng (Ph.D.candidate, 2025.09-): AI-aided medical image intelligent diagnosis</li>
-  <li> Zhaoze Sun (Ph.D.candidate, 2026.09-): AI-aided medical image intelligent diagnosis</li>
+  <li> Zhaoze Sun (Ph.D.candidate, 2026.05-): AI-aided medical image intelligent diagnosis</li>
 </ul>
 </div>
 
