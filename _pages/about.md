@@ -46,6 +46,7 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
+      <li>[2026.09.04]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Transactions on Circuits and Systems for Video Technology</em>.  </li>
       <li>[2024.07.06]  <strong>New !!!</strong>  课题组荣获 “中华口腔医学会科技奖 二等奖”（4/10）.  </li>    
       <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>      
       <li>[2024.05.30]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Bioprinting</em>（Q1, IF: 6.8）.  </li>
@@ -146,6 +147,13 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <!-- **Note**:* Corresponding author, # Co-first authors. -->
 <p style="font-size: 20px;"><strong>Note:</strong> * Corresponding author, # Co-first authors.</p>
+
+<h2 style="font-size: 20px;">2026</h2>
+<div style="font-size: 20px; text-align: justify;">
+  <ul>
+    <li>Rui Deng, Shipeng Hu, Pan Huang, Yuchun Sun, Lai Jiang, Pan Wei, Weiping Ding, <strong>Sukun Tian</strong>. <a href="https://doi.org/10.1109/TCSVT.2026.3690517">TexSem-Net: Texture Augmentation and Regional Semantics Fusion Dense-Prediction Network for Cervical Squamous Cell Carcinoma Histopathological Images.</a> <em><strong>IEEE Transactions on Circuits and Systems for Video Technology</strong></em>, 2026. doi: 10.1109/TCSVT.2026.3690517.</li>
+  </ul>
+</div>
 
 <h2 style="font-size: 20px;">2024</h2>
 <div style="font-size: 20px; text-align: justify;">
