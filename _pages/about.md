@@ -90,7 +90,7 @@ redirect_from:
   <li> Dongyao Jiang (M.Sc.student, 2024.09-): Topology optimization</li>
   <li> Shipeng Hu (Ph.D.student, 2026.09-): AI-aided medical image intelligent diagnosis</li>
   <li> Rui Deng (Ph.D.candidate, 2025.09-): AI-aided medical image intelligent diagnosis</li>
-  <li> Zhaoze Sun (Ph.D.candidate, 2026.05-): AI-aided medical image intelligent diagnosis</li>
+  <li> Zhaoze Sun (Ph.D.candidate, 2027.09-): AI-aided medical image intelligent diagnosis</li>
 </ul>
 </div>
 
@@ -154,6 +154,9 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <!-- **Note**:* Corresponding author, # Co-first authors. -->
 <p style="font-size: 20px;"><strong>Note:</strong> * Corresponding author, # Co-first authors.</p>
 
+
+
+
 <h2 style="font-size: 20px;">2026</h2>
 <div style="font-size: 20px; text-align: justify;">
   <ul>
@@ -161,6 +164,15 @@ By training AI models on vast amounts of annotated medical image data, these sys
     <li>Mingli Yang, Zhi Dong, Jin Zhang, Chongxian He, Yinjin Shao, Huixin Liang, Cijun Shuai, Yuchun Sun, <strong>Sukun Tian*</strong>, Youwen Yang. <a href="https://doi.org/10.1088/2631-7990/ae941b">Superior strength-ductility synergy in heterostructured zinc alloy implants fabricated via laser powder bed fusion.</a> <em><strong>International Journal of Extreme Manufacturing</strong></em>, 2026. (JCR Q1-Top, IF: 25.1). doi: 10.1088/2631-7990/ae941b. (* Co-corresponding author).</li>
   </ul>
 </div>
+
+<h2 style="font-size: 20px;">2026</h2>
+<div style="font-size: 20px; text-align: justify;">
+  <ul>
+    <li>Xinkai Xu#, <strong>Sukun Tian</strong>,  Meizi Zhang, Hu Chen, Weiwei Li, Chao Ma, Zhongning Liu, Yuchun Sun, <a href="https://www.sciencedirect.com/science/article/pii/S0952197624010455">Fully digital pneumatic gingival-retraction scanning technique: from methodology development to clinical validation.</a> <em><strong>Journal of Dentistry</strong></em>, 2025, 163: 106192.</li>
+  </ul>
+</div>
+
+
 
 <h2 style="font-size: 20px;">2024</h2>
 <div style="font-size: 20px; text-align: justify;">
