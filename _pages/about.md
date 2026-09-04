@@ -52,11 +52,11 @@ redirect_from:
       <li>[2026.07.08]  <strong>New !!!</strong>  One paper has been accepted by <em>Lancet Digital Health</em>（Q1-TOP, IF: 25.5）.  </li>
      <li>[2026.05.18]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Extreme Manufacturing</em>（Q1-TOP, IF: 25.1）.  </li>
       <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Transactions on Circuits and Systems for Video Technology</em>（Q1-TOP, IF: 10.8）.  </li>
-      <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>Virtual and Physical Prototyping</em>（Q1-TOP, IF: 9.8）.  </li>
+      <li>[2026.05.05]  One paper has been accepted by <em>Virtual and Physical Prototyping</em>（Q1-TOP, IF: 9.8）.  </li>
        <li>[2025.11.29]  成功获批省级项目 “海南省卫生健康科技创新联合重点项目”（主持）.  </li>
-      <li>[2024.07.06]  <strong>New !!!</strong>  课题组荣获 “中华口腔医学会科技奖 二等奖”（4/10）.  </li>    
-      <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>      
-      <li>[2024.05.30]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Bioprinting</em>（Q1, IF: 6.8）.  </li>
+      <li>[2024.07.06]  课题组荣获 “中华口腔医学会科技奖 二等奖”（4/10）.  </li>    
+      <li>[2024.07.01]  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>      
+      <li>[2024.05.30]  One paper has been accepted by <em>International Journal of Bioprinting</em>（Q1, IF: 6.8）.  </li>
       <li>[2024.05.06]  成功获批 “企业委托横向课题”（主持）.  </li>
       <li>[2024.04.28]  One paper has been accepted by <em>Computers in Biology and Medicine</em>（Q1-TOP, IF: 7.7）.  </li>
       <li>[2024.04.21]  课题组荣获 “第49届日内瓦国际发明展-金奖”（4/17）.  </li>
