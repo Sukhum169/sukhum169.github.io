@@ -161,7 +161,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <div style="font-size: 20px; text-align: justify;">
   <ul>
     <li>Rui Deng, Shipeng Hu, Pan Huang, Yuchun Sun, Lai Jiang, Pan Wei, Weiping Ding, <strong>Sukun Tian*</strong>. <a href="https://doi.org/10.1109/TCSVT.2026.3690517">TexSem-Net: Texture Augmentation and Regional Semantics Fusion Dense-Prediction Network for Cervical Squamous Cell Carcinoma Histopathological Images.</a> <em><strong>IEEE Transactions on Circuits and Systems for Video Technology</strong></em>, 2026. doi: 10.1109/TCSVT.2026.3690517.</li>
-    <li>Mingli Yang, Zhi Dong, Jin Zhang, Chongxian He, Yinjin Shao, Huixin Liang, Cijun Shuai, Yuchun Sun, <strong>Sukun Tian*</strong>, Youwen Yang. <a href="https://doi.org/10.1088/2631-7990/ae941b">Superior strength-ductility synergy in heterostructured zinc alloy implants fabricated via laser powder bed fusion.</a> <em><strong>International Journal of Extreme Manufacturing</strong></em>, 2026. (JCR Q1-Top, IF: 25.1). doi: 10.1088/2631-7990/ae941b. (* Co-corresponding author).</li>
+    <li>Mingli Yang, Zhi Dong, Jin Zhang, Chongxian He, Yinjin Shao, Huixin Liang, Cijun Shuai, Yuchun Sun, <strong>Sukun Tian*</strong>, Youwen Yang. <a href="https://doi.org/10.1088/2631-7990/ae941b">Superior strength-ductility synergy in heterostructured zinc alloy implants fabricated via laser powder bed fusion.</a> <em><strong>International Journal of Extreme Manufacturing</strong></em>, 2026，8：065105.</li>
   </ul>
 </div>
 
