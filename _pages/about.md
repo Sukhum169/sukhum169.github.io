@@ -27,7 +27,7 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <p style="font-size: 20px; text-align: justify;">&emsp;&emsp;<a href="https://www.researchgate.net/profile/Sukun-Tian-tiansukun-2"><strong>Sukun Tian</strong></a>  received the Ph.D. degree in Manufacture Engineering of Aeronautics and Astronautics from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2020, and Post-Doctoral Fellow in School of Mechanical Engineering, Shandong University, Jinan, China, in 2023. He is currently an Assistant Professor/Associate Researcher and PhD Supervisor with Center of Digital Dentistry from Peking University School and Hospital of Stomatology. 
 <br>&emsp;&emsp;His current research interests cover a wide range of topics related with Biomedical Engineering, Medical Image Analysis, Intelligent Manufacturing, Artificial Intelligence (AI) techniques in healthcare and medicine applications.
-<br>&emsp;&emsp;<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5146.html"><strong>田素坤</strong></a>，工学博士（后），北京大学口腔医学院·口腔医学数字化研究中心 副研究员、博/硕士研究生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者；主持项目：国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等6项；国内外刊物上发表论文50余篇（ESI高被引论文1篇）；申请中国发明专利10项（授权4项、转化1项）、软件著作权2项；荣获第48、49届日内瓦国际发明展-金奖（4/13、4/17）、中华口腔医学会科技奖二等奖（4/10）等各类奖励10余项，指导博士、硕士研究生9人。
+<br>&emsp;&emsp;<a href="https://ss.bjmu.edu.cn/Html/News/Articles/5146.html"><strong>田素坤</strong></a>，工学博士（后），北京大学口腔医学院·口腔医学数字化研究中心 副研究员、博/硕士研究生导师，北大医学-南京前知口腔智能设计制造联合实验室副主任、中国医疗器械行业协会口腔科设备及材料专业委员会特聘专家顾问。2020年于南京航空航天大学获工学博士学位，2020年至2023年任山东大学博士后研究员，2022年南京航空航天大学优秀博士学位论文获得者；主持项目：国家重点研发计划课题、国家自然科学基金青年项目、北京市自然科学基金等6项；国内外刊物上发表论文50余篇（ESI高被引论文1篇）；申请中国发明专利39项（其中授权15项、PCT 9项）、<strong>6项专利转让金额价值达874.2万元</strong> 、软件著作权6项；荣获第48、49届日内瓦国际发明展-金奖（4/13、4/17）、中华医学科技奖医学科学技术奖二等奖（5/10）、中华口腔医学会科技奖二等奖（4/10）、北京医学科技奖特等奖（9/15）、2024年北京高校科协联盟创新场景挑战赛（人工智能领域）T10（第二名）（1/10）等各类奖励16项，指导博士、硕士研究生10人。
 </p>
 
 <p style="color: #0000FF; font-size: 24px; text-align: justify;">&emsp;&emsp;<strong>研究方向：医学人工智能诊断与仿生设计智造技术</strong> 
@@ -46,7 +46,8 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
-      <li>[2026.09.04]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Transactions on Circuits and Systems for Video Technology</em>.  </li>
+      <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Transactions on Circuits and Systems for Video Technology</em>（Q1-TOP, IF: 10.8）.  </li>
+         <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>Virtual and Physical Prototyping</em>（Q1-TOP, IF: 9.8）.  </li>
       <li>[2024.07.06]  <strong>New !!!</strong>  课题组荣获 “中华口腔医学会科技奖 二等奖”（4/10）.  </li>    
       <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>      
       <li>[2024.05.30]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Bioprinting</em>（Q1, IF: 6.8）.  </li>
