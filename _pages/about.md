@@ -53,6 +53,7 @@ redirect_from:
      <li>[2026.05.18]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Extreme Manufacturing</em>（Q1-TOP, IF: 25.1）.  </li>
       <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Transactions on Circuits and Systems for Video Technology</em>（Q1-TOP, IF: 10.8）.  </li>
       <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>Virtual and Physical Prototyping</em>（Q1-TOP, IF: 9.8）.  </li>
+       <li>[2025.11.29]  成功获批省级项目 “海南省卫生健康科技创新联合重点项目”（主持）.  </li>
       <li>[2024.07.06]  <strong>New !!!</strong>  课题组荣获 “中华口腔医学会科技奖 二等奖”（4/10）.  </li>    
       <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>      
       <li>[2024.05.30]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Bioprinting</em>（Q1, IF: 6.8）.  </li>
@@ -300,9 +301,14 @@ By training AI models on vast amounts of annotated medical image data, these sys
 
 <div class='anchor' id='projects' style="text-align: justify; font-size: 20px;">
  <ul> 
+
   <li>国家自然科学基金青年项目（52105265），2022.01-2024.12，主持</li>
   <li>国家重点研发计划课题（2023YFB4605401），2023.12-2026.12，主持</li>
   <li>北京市自然科学基金-海淀原始创新联合基金（L232145），2023.11-2026.11，主持</li>
+  <li>海南省卫生健康科技创新联合重点项目（WSJK2026ZD285），2026.01-2028.12，主持</li>
+  <li>北京市海淀区医学科技创新成果转化“领航计划”科技创新培育项目（HDLH2509），2026.01-2026.03主持</li>
+  <li>教育部中国高校产学研创新基金（数智创新与人才专项）（2024LC019），2025.02-2027.02，主持</li>
+  <li>机器人技术与系统全国重点实验室开放基金（SKLRS-20205-KF-14），2025.01-2026.12，主持</li>
   <li>企业委托横向课题（PKUSSIIT2024031），2024.05-2025.05，主持</li>
 </ul>
 </div>
