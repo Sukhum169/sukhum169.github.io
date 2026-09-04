@@ -46,6 +46,11 @@ redirect_from:
 <!-- ####################################################################################################################################################### -->
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
+      
+       <li>[2026.08.29]  <strong>New !!!</strong>  One paper has been accepted by <em>Information Fusion</em>（Q1-TOP, IF: 17.4）.  </li>
+       <li>[2026.07.30]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Mechanical Sciences</em>（Q1-TOP, IF: 11.4）.  </li>
+      <li>[2026.07.08]  <strong>New !!!</strong>  One paper has been accepted by <em>Lancet Digital Health</em>（Q1-TOP, IF: 25.5）.  </li>
+     <li>[2026.05.18]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Extreme Manufacturing</em>（Q1-TOP, IF: 25.1）.  </li>
       <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Transactions on Circuits and Systems for Video Technology</em>（Q1-TOP, IF: 10.8）.  </li>
       <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>Virtual and Physical Prototyping</em>（Q1-TOP, IF: 9.8）.  </li>
       <li>[2024.07.06]  <strong>New !!!</strong>  课题组荣获 “中华口腔医学会科技奖 二等奖”（4/10）.  </li>    
