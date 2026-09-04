@@ -47,7 +47,7 @@ redirect_from:
 <div style="width: 1000px; height:250px; overflow: auto; font-size: 20px; text-align: justify;">
  <ul>
       <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>IEEE Transactions on Circuits and Systems for Video Technology</em>（Q1-TOP, IF: 10.8）.  </li>
-         <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>Virtual and Physical Prototyping</em>（Q1-TOP, IF: 9.8）.  </li>
+      <li>[2026.05.05]  <strong>New !!!</strong>  One paper has been accepted by <em>Virtual and Physical Prototyping</em>（Q1-TOP, IF: 9.8）.  </li>
       <li>[2024.07.06]  <strong>New !!!</strong>  课题组荣获 “中华口腔医学会科技奖 二等奖”（4/10）.  </li>    
       <li>[2024.07.01]  <strong>New !!!</strong>  One paper has been accepted by <em>Engineering Applications of Artificial Intelligence</em>（Q1-TOP, IF: 7.5）.  </li>      
       <li>[2024.05.30]  <strong>New !!!</strong>  One paper has been accepted by <em>International Journal of Bioprinting</em>（Q1, IF: 6.8）.  </li>
