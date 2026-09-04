@@ -168,7 +168,7 @@ By training AI models on vast amounts of annotated medical image data, these sys
 <h2 style="font-size: 20px;">2025</h2>
 <div style="font-size: 20px; text-align: justify;">
   <ul>
-    <li>Xinkai Xu#, <strong>Sukun Tian</strong>,  Meizi Zhang, Hu Chen, Weiwei Li, Chao Ma, Zhongning Liu, Yuchun Sun, <a href="https://www.sciencedirect.com/science/article/pii/S0952197624010455">Fully digital pneumatic gingival-retraction scanning technique: from methodology development to clinical validation.</a> <em><strong>Journal of Dentistry</strong></em>, 2025, 163: 106192.</li>
+    <li>Xinkai Xu#, <strong>Sukun Tian#</strong>,  Meizi Zhang, Hu Chen, Weiwei Li, Chao Ma, Zhongning Liu, Yuchun Sun, <a href="https://www.sciencedirect.com/science/article/pii/S0952197624010455">Fully digital pneumatic gingival-retraction scanning technique: from methodology development to clinical validation.</a> <em><strong>Journal of Dentistry</strong></em>, 2025, 163: 106192.</li>
   </ul>
 </div>
 
